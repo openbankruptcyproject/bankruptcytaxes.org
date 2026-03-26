@@ -1,7 +1,6 @@
-{
-  "name": "Tax Debts in Bankruptcy -- Can You Discharge IRS Debt?",
+{"name": "Taxes and Bankruptcy",
   "short_name": "bankruptcytaxes.org",
-  "description": "Free guide to discharging tax debts in bankruptcy. Learn the 3-year, 2-year, and 240-day rules for when income tax debts become dischargeable under Chapter 7 or Chapter 13.",
+  "description": "Section 523(a)(1) tax debt rules and priority tax claims",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d1117",
