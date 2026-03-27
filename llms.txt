@@ -1,17 +1,13 @@
 # bankruptcytaxes.org
 
-> Taxes and Bankruptcy | bankruptcytaxes.org
+> Guide to tax debts in bankruptcy -- which taxes can be discharged.
 
-Section 523(a)(1) tax debt rules and priority tax claims
+bankruptcytaxes.org is a free, open-source educational resource about tax obligations in bankruptcy. Part of the Bankruptcy Transparency Network.
 
-This site is part of the Bankruptcy Transparency Network -- free, open-source bankruptcy information based on national federal court data.
+## Pages
 
-## Related Sites
-- https://1328f.com -- Free bankruptcy discharge screener
-- https://1328f.org -- Research platform
-- https://bankruptcymill.org -- Bankruptcy mill detection
-- https://serialfiler.org -- Serial filing restrictions
-- https://dischargebar.org -- Discharge waiting periods
+- https://bankruptcytaxes.org/: Guide to tax debts in bankruptcy -- the 3-year, 2-year, and 240-day rules
 
 ## Contact
-- Ko-fi: https://ko-fi.com/ilikemath9999
+
+This site is maintained by volunteers. No legal advice is provided.
