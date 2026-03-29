@@ -1,53 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.w3.org/2005/Sitemaps/sitemaps.org/schema/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bankruptcytaxes.org/240-day-rule.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcytaxes.org/3-year-rule.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcytaxes.org/income-tax-return.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcytaxes.org/</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://bankruptcytaxes.org/irs-payment-plan.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcytaxes.org/payroll-taxes.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcytaxes.org/state-taxes.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcytaxes.org/tax-liens.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcytaxes.org/tax-refund.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bankruptcytaxes.org/trust-fund-penalty.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
