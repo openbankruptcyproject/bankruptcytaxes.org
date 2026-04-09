@@ -1,0 +1,2763 @@
+# bankruptcytaxes.org -- Full Content
+
+This file contains the full text content of all pages on bankruptcytaxes.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## The 240-Day Rule -- IRS Assessment and Bankruptcy Tax Discharge
+Source: https://bankruptcytaxes.org/240-day-rule.html
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+The 240-Day Rule for Tax Discharge
+
+11 U.S.C. Section 507(a)(8)(A)(ii) -- the IRS assessment timing test
+
+Network › Taxes and Bankruptcy › 240-Day Rule
+
+What Is the 240-Day Rule?
+
+The 240-day rule is the second major timing test for discharging tax debt in bankruptcy. Found in 11 U.S.C. Section 507(a)(8)(A)(ii), it provides that a tax is a priority claim (and therefore nondischargeable) if it was assessed within 240 days before the bankruptcy filing.
+
+In simpler terms: the IRS must have formally recorded your tax liability at least 240 days (about 8 months) before you file bankruptcy. If the assessment happened more recently than that, the tax cannot be discharged.
+
+This rule works alongside the 3-year rule and the 2-year filing rule. All three timing tests must be satisfied for the same tax year before the debt can be discharged.
+
+Key point: "Assessment" is a specific IRS event -- it is the formal recording of the tax liability on the IRS's books. It is not the same as filing your return, receiving a bill, or even the date of an audit.
+
+What Does "Assessment" Mean?
+
+Assessment is the formal IRS act of recording a tax liability. Under 26 U.S.C. Section 6203, assessment occurs when an authorized IRS officer signs the assessment document and the date is recorded. This is an internal IRS administrative step -- you do not receive notice of the assessment date itself (though you receive notices of the tax owed).
+
+When Assessment Typically Happens
+
+Return filed, balance due: If you file a return showing taxes owed, the IRS typically assesses the tax within a few weeks of processing the return. For most people, this happens within 30-60 days of filing.
+
+Audit adjustment: If the IRS audits your return and finds additional tax owed, the assessment occurs after the audit is complete and you either agree to the adjustment or lose your appeal rights. This can be months or years after the original return was filed.
+
+Substitute for Return (SFR): If you did not file a return, the IRS can prepare one for you (an SFR) and assess the tax based on that. The assessment date is when the SFR-based assessment is recorded.
+
+Amended return: If you file an amended return showing additional tax, a new assessment occurs for the additional amount.
+
+The audit trap: If you filed your return on time but were later audited, the assessment of the additional tax from the audit has its own 240-day clock. Even if the original return is old enough to meet the 3-year rule, the audit assessment might be too recent to meet the 240-day rule.
+
+How to Find Your Assessment Date
+
+The assessment date is shown on your IRS Account Transcript. You can obtain this document in two ways:
+
+Online: Create or log into your account at IRS.gov and request an Account Transcript for each tax year.
+
+By mail: Submit IRS Form 4506-T (Request for Transcript of Tax Return), checking the box for "Account Transcript."
+
+On the transcript, look for the line that says "Assessment Date" or entries with transaction codes 150 (return filed, tax assessed), 290 (additional tax assessed), or 300 (additional tax assessed by examination). The date next to these codes is the assessment date the IRS will use for the 240-day calculation.
+
+Multiple Assessment Dates
+
+A single tax year can have multiple assessment dates if the IRS made adjustments after the original assessment. The 240-day rule applies to each assessment separately. The original tax assessed when you filed your return has one assessment date. Additional tax assessed after an audit has a later assessment date. You must clear the 240-day hurdle for each assessment.
+
+Tolling the 240-Day Period
+
+Just like the 3-year rule, the 240-day period can be tolled (paused) by certain events:
+
+Offer in Compromise
+
+If you submitted an offer in compromise (OIC) to the IRS, the 240-day period is tolled for the entire time the OIC was pending, plus an additional 30 days. This is the most common and most significant tolling event for the 240-day rule.
+
+Example: Your tax was assessed on January 1, 2025. Under normal circumstances, the 240-day rule would be satisfied after August 29, 2025. But if you submitted an OIC that was pending for 6 months (let's say from February 1 to August 1, 2025), the clock was paused for 6 months plus 30 days. The effective satisfaction date shifts to approximately April 28, 2026.
+
+The OIC-then-bankruptcy trap: Many people try an offer in compromise first, have it rejected, and then turn to bankruptcy. They do not realize that the OIC tolled the 240-day period (and the 3-year period), potentially making their taxes nondischargeable. This is one of the most common and costly mistakes in tax-bankruptcy planning.
+
+Prior Bankruptcy
+
+A prior bankruptcy filing tolls the 240-day period for the time the prior case was pending, plus 90 days. This parallels the tolling rule for the 3-year period.
+
+Collection Due Process Hearing
+
+A CDP hearing request tolls the 240-day period during the time the hearing is pending.
+
+Interaction with the 3-Year Rule and 2-Year Rule
+
+The 240-day rule, the 3-year rule, and the 2-year filing rule are independent tests. All three must be satisfied for the same tax year before the debt can be discharged. Meeting two out of three is not enough.
+
+The Three Tests Summarized
+
+3-year rule (Section 507(a)(8)(A)(i)): Tax return was due more than 3 years before filing.
+
+240-day rule (Section 507(a)(8)(A)(ii)): Tax was assessed more than 240 days before filing.
+
+2-year rule (Section 523(a)(1)(B)(ii)): Tax return was actually filed more than 2 years before filing bankruptcy.
+
+The 3-year rule and 240-day rule determine whether the tax is a "priority" claim. The 2-year rule is a separate nondischargeability provision. Even a non-priority tax can be nondischargeable if the return was filed late and the 2-year rule is not met.
+
+The 2-Year Rule Explained
+
+Under 11 U.S.C. Section 523(a)(1)(B)(ii), a tax debt is nondischargeable if the return was filed (or given to the IRS) less than 2 years before the bankruptcy petition. This catches people who filed their returns late. If you owed 2020 taxes, the return was due April 15, 2021, but you did not actually file it until March 1, 2025, then you must wait until after March 1, 2027 to file bankruptcy and have the 2-year rule satisfied.
+
+Practical Steps
+
+Order your IRS Account Transcript for every tax year you owe. The assessment date is not something you can calculate on your own -- you need the IRS's records.
+
+Check for multiple assessments: Look for audit adjustments, amended return assessments, or substitute-for-return assessments that may have later dates.
+
+Calculate tolling: Add up any time spent in a prior bankruptcy, OIC review, or CDP hearing, and add that time to the 240-day countdown.
+
+Run all three tests: Do not just check the 240-day rule. Verify the 3-year rule and 2-year filing rule as well.
+
+Time your filing carefully: If you are close to clearing the 240-day hurdle, waiting a few weeks can save you thousands of dollars in nondischargeable tax debt.
+
+Frequently Asked Questions
+
+What is the 240-day assessment rule?
+
+The 240-day rule, codified at 11 U.S.C. Section 507(a)(8)(A)(ii), provides that a tax is a priority claim if it was assessed within 240 days before the bankruptcy petition. Priority tax claims cannot be discharged in Chapter 7 and must be paid in full in Chapter 13. The 240 days runs from the IRS's formal assessment date, which you can find on your IRS Account Transcript.
+
+How do I find my IRS assessment date?
+
+Request an IRS Account Transcript using Form 4506-T or through your IRS.gov online account. The transcript shows the formal assessment date for each tax year -- look for transaction code 150 (original assessment) or 290/300 (additional assessment after audit). This date is the starting point for the 240-day calculation.
+
+Does an offer in compromise affect the 240 days?
+
+Yes, significantly. An offer in compromise tolls (pauses) the 240-day period for the entire time the offer is pending, plus an additional 30 days. If your OIC was pending for 6 months before being rejected, that adds roughly 7 months to the time you must wait before the 240-day rule is satisfied. This is one of the most common traps in tax-bankruptcy planning.
+
+What if the IRS reassessed my taxes?
+
+Each assessment has its own 240-day clock. If the IRS originally assessed your tax when you filed your return, and then assessed additional tax after an audit, the additional tax has a later assessment date. You must wait 240 days from the later assessment date before filing bankruptcy to discharge the additional amount. The original assessment may already satisfy the 240-day rule while the audit assessment does not.
+
+Related Resources
+
+The 3-Year Rule -- the first timing test for tax discharge
+
+Section 523(a) Exceptions to Discharge -- tax debts under 523(a)(1)
+
+IRS Payment Plan vs. Bankruptcy -- comparing your options
+
+Nondischargeable Debts -- complete guide to debts that survive bankruptcy
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org relieffromstay.org dischargeinjunction.org dischargeinjunction.com 523a.org 109g.org 727a8.org 727a8.com prosedebtors.org whatischapter7.com whatischapter7.org chapter13plan.org lienstripping.org nondischargeable.org bankruptcyfreshstart.org reaffirmationagreement.org dischargebar.org section1328.org bankruptcytaxes.org dismissedbankruptcy.org serialfiler.org codebtorstay.org bankruptcyhardship.org voluntarypetition.org ♥ Sponsor GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Last updated: March 2026
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## The 3-Year Rule for Discharging Tax Debt in Bankruptcy
+Source: https://bankruptcytaxes.org/3-year-rule.html
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+The 3-Year Rule for Tax Debt in Bankruptcy
+
+11 U.S.C. Section 507(a)(8)(A)(i) -- the first timing hurdle for discharging income tax debt
+
+Network › Taxes and Bankruptcy › 3-Year Rule
+
+Quick Answer
+
+Income tax debt can potentially be discharged in bankruptcy if the tax return was due more than 3 years before your bankruptcy petition date. The due date includes any extensions you actually requested. This is the first of several timing tests -- you must also satisfy the 240-day assessment rule, the 2-year filing rule, and the no-fraud requirement. Each tax year is evaluated separately.
+
+Example: 2021 income taxes were due April 15, 2022 (no extension). The 3-year rule is satisfied for a bankruptcy filed after April 15, 2025. If you requested an extension, the due date was October 15, 2022, and the 3-year rule is not satisfied until after October 15, 2025.
+
+What Is the 3-Year Rule?
+
+The 3-year rule is the first of several timing tests that determine whether income tax debt can be discharged (eliminated) in bankruptcy. It comes from 11 U.S.C. Section 507(a)(8)(A)(i), which gives "priority" status to income taxes for which the return was due within 3 years before the bankruptcy filing.
+
+In plain English: if the tax return was due more than 3 years before you file bankruptcy, the tax debt may be dischargeable. If it was due less than 3 years ago, the tax is a priority claim -- it cannot be discharged in Chapter 7, and it must be paid in full through a Chapter 13 plan.
+
+This is the rule most people hear about first when researching tax debt and bankruptcy. But it is only one of several rules that must all be satisfied before a tax debt can actually be discharged. The others are the 240-day assessment rule, the 2-year filing rule, and the fraud/evasion exclusion.
+
+Key point: The 3-year rule is necessary but not sufficient. Even if the 3-year test is met, the tax may still be nondischargeable if one of the other rules is not satisfied.
+
+How to Count the 3 Years
+
+The 3-year period runs from the due date of the tax return, including extensions, to the date of the bankruptcy petition. This is a critical distinction -- the clock does not start from when you actually filed the return, or from the end of the tax year. It starts from when the return was due.
+
+Without Extensions
+
+For most individual filers, federal income tax returns are due on April 15 of the year following the tax year. So for tax year 2022, the return was due April 15, 2023. The 3-year rule would be satisfied if you file bankruptcy after April 15, 2026.
+
+With Extensions
+
+If you requested a 6-month extension (IRS Form 4868), the due date shifts to October 15. For tax year 2022 with an extension, the return was due October 15, 2023. The 3-year rule would not be satisfied until after October 15, 2026.
+
+Important: Extensions you actually requested and received count, even if you filed the return before the extended deadline. The statute looks at when the return was "last due, including extensions," not when you actually filed it.
+
+Worked Example
+
+Suppose you owe taxes for three years:
+
+2020 taxes: Due April 15, 2021 (no extension). If you file bankruptcy after April 15, 2024, the 3-year rule is satisfied.
+
+2021 taxes: Due October 15, 2022 (6-month extension requested). If you file bankruptcy after October 15, 2025, the 3-year rule is satisfied.
+
+2022 taxes: Due April 15, 2023 (no extension). If you file bankruptcy after April 15, 2026, the 3-year rule is satisfied.
+
+Each year is evaluated independently. You might be able to discharge the oldest year's taxes while the newer years remain priority claims that must be paid.
+
+The Tolling Problem
+
+"Tolling" means the clock stops running. Certain events suspend the 3-year period, adding time to the calculation. If the clock is tolled, the date when the tax becomes dischargeable is pushed further into the future.
+
+Events That Toll the 3-Year Period
+
+Prior bankruptcy filing: If you had a previous bankruptcy case, the 3-year clock is paused for the entire time the prior case was pending, plus an additional 90 days. This is one of the most common tolling events and catches many repeat filers off guard.
+
+Collection Due Process (CDP) hearing: If you requested a CDP hearing after receiving a Notice of Intent to Levy or a Notice of Federal Tax Lien, the 3-year period is tolled while the hearing is pending.
+
+Offer in compromise (OIC): If you submitted an offer in compromise to the IRS, the 3-year clock is tolled during the time the offer was pending, plus 30 additional days.
+
+Innocent spouse relief request: A pending request for innocent spouse relief under 26 U.S.C. Section 6015 can toll the period as well.
+
+Trap for the unwary: Many people file an offer in compromise with the IRS, have it rejected after months of review, and then file bankruptcy. They do not realize that the months the OIC was pending tolled the 3-year clock, potentially making their taxes nondischargeable. Always calculate tolling before filing.
+
+How Tolling Works in Practice
+
+Suppose you owe 2020 taxes (due April 15, 2021). Under normal circumstances, the 3-year rule would be satisfied after April 15, 2024. But if you filed a prior Chapter 13 case that was pending for 8 months before being dismissed, the 3-year clock was paused for 8 months plus 90 days (roughly 11 months total). The effective deadline shifts from April 15, 2024 to approximately March 15, 2025.
+
+Tolling calculations can be complicated. If multiple tolling events overlap or occur in sequence, the math gets even more complex. Getting this wrong -- even by a day -- can mean the difference between a dischargeable tax debt and one that survives bankruptcy.
+
+The 3-Year Rule Is Just One Test
+
+Even after the 3-year rule is satisfied, you must also pass these additional tests before an income tax debt can be discharged:
+
+240-day rule (11 U.S.C. Section 507(a)(8)(A)(ii)): The tax must have been assessed by the IRS at least 240 days before the bankruptcy filing. See our 240-day rule guide.
+
+2-year filing rule (11 U.S.C. Section 523(a)(1)(B)(ii)): The tax return must have been filed at least 2 years before the bankruptcy petition. Late-filed returns trigger this rule.
+
+No fraud or willful evasion (11 U.S.C. Section 523(a)(1)(C)): If the IRS proves the tax was due to fraud or willful tax evasion, the debt is nondischargeable regardless of timing.
+
+The return must be a "return": Some courts have held that a Substitute for Return (SFR) prepared by the IRS is not a "return" for purposes of the 2-year rule, and a return filed after an SFR may also not qualify. This is the "hanging paragraph" problem under BAPCPA.
+
+All of these tests must be satisfied for the same tax year. If any one test fails, the tax debt is nondischargeable.
+
+Chapter 7 vs. Chapter 13
+
+The 3-year rule operates the same way regardless of which chapter you file under, but the practical consequences differ.
+
+Chapter 7: If the 3-year rule (and all other tests) are satisfied, the tax debt is discharged -- wiped out entirely. If the 3-year rule is not satisfied, the tax is a priority debt. In Chapter 7, priority debts are not discharged. You will still owe them in full after your case closes.
+
+Chapter 13: Priority tax debts must be paid in full through your Chapter 13 plan under 11 U.S.C. Section 1322(a)(2). Non-priority tax debts that pass all the timing tests are treated as general unsecured claims and may be paid only pennies on the dollar (or nothing), depending on your plan. This makes timing critical -- if you can wait until the 3-year rule is satisfied before filing Chapter 13, you can convert a priority claim into a general unsecured claim, dramatically reducing what you pay.
+
+Common Mistakes That Cost People Money
+
+Calculating the 3-year rule incorrectly is one of the most expensive errors in bankruptcy tax planning. These are the mistakes that trip people up most often:
+
+Using the filing date instead of the due date. The 3-year period runs from when the return was due, not when you actually filed it. If you filed your 2021 return late (say, in August 2023), the 3-year clock still runs from the original due date of April 15, 2022 -- not from August 2023. However, the separate 2-year filing rule does run from when you actually filed.
+
+Forgetting about extensions. If you requested an extension but filed the return early, the due date is still the extended date (October 15). Many people do not remember whether they filed extensions years ago. Order your IRS transcript to verify.
+
+Ignoring tolling from a prior bankruptcy. If you filed a previous bankruptcy case that was pending for any period of time, that time plus 90 days is added to the 3-year calculation. This is the single most common tolling trap for repeat filers.
+
+Filing bankruptcy one day too early. The statute requires more than 3 years -- exactly 3 years is not enough. If the return was due April 15, 2022, you must file bankruptcy on April 16, 2025 or later, not on April 15, 2025. Being off by a single day makes the entire tax debt nondischargeable for that year.
+
+Assuming all years qualify just because one does. Each tax year is evaluated independently. Just because your 2019 taxes pass the 3-year test does not mean your 2020 or 2021 taxes do.
+
+Ignoring the interaction with the 240-day rule. The 3-year rule and the 240-day rule are independent tests. A tax year can pass the 3-year test but fail the 240-day test if the IRS assessed the tax within the last 240 days (for example, after an audit). Both must be satisfied.
+
+Step-by-Step Calculation Worksheet
+
+Use this process for each tax year you want to evaluate. You will need your IRS account transcript (available at irs.gov or by filing Form 4506-T).
+
+Identify the tax year. Example: 2021.
+
+Determine the original due date. For individual returns, this is typically April 15 of the following year. For 2021 taxes: April 15, 2022.
+
+Check for extensions. Review your IRS transcript for Form 4868 (automatic extension). If an extension was filed, the due date shifts to October 15. For 2021 taxes with extension: October 15, 2022.
+
+Add 3 years to the due date. This gives you the earliest possible date the 3-year rule is satisfied. April 15, 2022 + 3 years = April 15, 2025 (file on April 16, 2025 or later). October 15, 2022 + 3 years = October 15, 2025 (file on October 16, 2025 or later).
+
+Check for tolling events. Review whether you filed a prior bankruptcy, submitted an offer in compromise, or requested a Collection Due Process hearing during the 3-year window. Add the tolling period to your calculation.
+
+Calculate the adjusted earliest filing date. Original earliest date + total tolling days = adjusted date.
+
+Repeat for the 240-day rule and 2-year filing rule. The latest date among all three tests is your true earliest filing date.
+
+Worked example with tolling: 2020 taxes, due April 15, 2021, no extension. Base 3-year date: April 16, 2024. But you had a Chapter 13 case filed January 1, 2023 and dismissed June 30, 2023 (181 days pending). Tolling period: 181 days + 90 days = 271 days. Adjusted date: April 16, 2024 + 271 days = approximately January 12, 2025. You must wait until January 13, 2025 or later to file bankruptcy and discharge the 2020 taxes under the 3-year rule.
+
+How the 3-Year Rule Interacts with Other Timing Rules
+
+The 3-year rule does not operate in isolation. All three timing rules must be satisfied for the same tax year before the tax can be discharged. Understanding how they interact is critical to strategic bankruptcy timing.
+
+3-Year Rule + 2-Year Filing Rule
+
+The 2-year rule (11 U.S.C. Section 523(a)(1)(B)(ii)) requires that the tax return was actually filed at least 2 years before the bankruptcy petition. This catches people who filed their returns late. If you owed 2020 taxes (due April 15, 2021) but did not file the return until March 2024, the 3-year rule is satisfied after April 15, 2024 -- but the 2-year filing rule is not satisfied until March 2026. You would need to wait until March 2026 to discharge that year's taxes.
+
+3-Year Rule + 240-Day Assessment Rule
+
+The 240-day rule (11 U.S.C. Section 507(a)(8)(A)(ii)) requires that the IRS assessed the tax at least 240 days before the bankruptcy filing. For most people who filed timely returns, the assessment happens shortly after the return is processed, so this rule is easily satisfied. The problem arises when the IRS conducts an audit and makes an additional assessment. If the IRS audits your 2020 return in 2024 and assesses additional tax, the 240-day clock resets from that new assessment date -- even though the 3-year rule was already satisfied.
+
+The Takeaway
+
+Calculate all three dates for each tax year. The latest date among the three determines when you can file bankruptcy and discharge that year's taxes. Strategic timing can mean the difference between owing the IRS thousands of dollars and owing nothing.
+
+Practical Steps
+
+Order your IRS transcript (Form 4506-T or use IRS.gov online) to verify the due date, whether extensions were filed, and the assessment date for each tax year.
+
+Check for tolling events: Review whether you filed a prior bankruptcy, requested a CDP hearing, or submitted an offer in compromise.
+
+Calculate each year separately: Make a chart showing the due date, any tolling, and the earliest date the 3-year rule is satisfied for each tax year.
+
+Do not file early: If you are close to satisfying the 3-year rule, waiting a few months to file bankruptcy can save you thousands of dollars. This is one area where patience pays off directly.
+
+Check the other rules too: The 3-year rule alone is not enough. You must also verify the 240-day rule and the 2-year filing rule.
+
+Check for tax liens: Even if a tax debt is dischargeable, a filed federal tax lien survives bankruptcy and attaches to your property. The personal liability is eliminated, but the lien remains on any property you owned at the time of filing.
+
+Frequently Asked Questions
+
+What is the 3-year rule for taxes in bankruptcy?
+
+The 3-year rule, codified at 11 U.S.C. Section 507(a)(8)(A)(i), provides that income tax debt is treated as a priority claim if the tax return was due (with extensions) within 3 years before the bankruptcy filing. Priority tax debt cannot be discharged in Chapter 7 and must be paid in full in Chapter 13. Once the 3-year period has passed, the tax may be dischargeable -- but only if the other timing rules are also met.
+
+Do extensions affect the 3-year calculation?
+
+Yes. The statute specifically says the 3-year period runs from the date the return was "last due, including extensions." If you requested a 6-month extension, the due date shifts to October 15, and the 3-year clock runs from that later date. This is true even if you filed the return before the extended deadline.
+
+What events toll the 3-year period?
+
+The 3-year period is tolled (paused) by a prior bankruptcy case (for the time the case was pending plus 90 days), a Collection Due Process hearing, an offer in compromise (plus 30 days), and a request for innocent spouse relief. Each of these events adds time to the calculation, pushing back the date when the tax becomes dischargeable.
+
+Can I discharge taxes from multiple years?
+
+Yes, but each year must be analyzed separately. The 3-year rule, 240-day rule, and 2-year filing rule must all be satisfied for each specific tax year. It is common for older tax years to qualify for discharge while more recent years do not. Strategic timing of your bankruptcy filing can maximize the number of years that qualify.
+
+Does the 3-year rule apply to state income taxes?
+
+Yes. The 3-year rule under 11 U.S.C. Section 507(a)(8)(A)(i) applies to state and local income taxes as well as federal income taxes. The analysis is the same -- the state tax return must have been due more than 3 years before the bankruptcy filing. However, state income tax returns may have different due dates than federal returns in some situations, so verify the due date for each jurisdiction separately.
+
+What happens if I never filed the tax return?
+
+If you never filed the return, the 3-year rule becomes more complicated. First, an unfiled return means the 2-year filing rule cannot be satisfied (there is no filing date to measure from). Second, in some circuits, a return filed after the IRS prepares a Substitute for Return (SFR) may not qualify as a "return" at all under the BAPCPA hanging paragraph. The safest course is to file all missing returns as soon as possible and then calculate the timing from there.
+
+Can payroll taxes be discharged under the 3-year rule?
+
+No. The 3-year rule applies only to income taxes (and certain other taxes for which a return is required). Trust fund payroll taxes -- the portion of employee wages that an employer withholds for Social Security, Medicare, and income tax -- are not dischargeable in bankruptcy regardless of timing. These are treated as trust fund obligations under 26 U.S.C. Section 6672 and are excepted from discharge under 11 U.S.C. Section 523(a)(1)(A).
+
+Related Resources
+
+The 240-Day Assessment Rule -- the second timing test for tax discharge
+
+Nondischargeable Debts -- complete guide to debts that survive bankruptcy
+
+Section 523(a) Exceptions to Discharge -- including tax debt under 523(a)(1)
+
+IRS Payment Plan vs. Bankruptcy -- comparing your options for tax debt
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+relieffromstay.org
+dischargeinjunction.org
+dischargeinjunction.com
+523a.org
+109g.org
+727a8.org
+727a8.com
+prosedebtors.org
+whatischapter7.com
+whatischapter7.org
+chapter13plan.org
+lienstripping.org
+nondischargeable.org
+bankruptcyfreshstart.org
+reaffirmationagreement.org
+dischargebar.org
+section1328.org
+bankruptcytaxes.org
+dismissedbankruptcy.org
+serialfiler.org
+codebtorstay.org
+bankruptcyhardship.org
+voluntarypetition.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Last updated: March 2026
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Filing Tax Returns During Chapter 13 Bankruptcy
+Source: https://bankruptcytaxes.org/income-tax-return.html
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+Filing Tax Returns During Chapter 13
+
+The Section 1308 requirement and what happens if you fall behind
+
+Network › Taxes and Bankruptcy › Tax Returns During Chapter 13
+
+The Filing Requirement
+
+Chapter 13 debtors have a strict obligation to file all tax returns -- both before and during their bankruptcy case. This is not optional. Failure to file is one of the most common reasons Chapter 13 cases are dismissed.
+
+The requirement comes from two sections of the Bankruptcy Code:
+
+11 U.S.C. Section 1308: Before confirmation, you must file all tax returns that were due for the 4 tax years ending on the date of filing. If these returns are not filed, the court cannot confirm your plan.
+
+11 U.S.C. Section 521(f): During the case, you must provide copies of tax returns (or transcripts) to the trustee each year.
+
+Consequence of non-filing: If you fail to file required tax returns, the trustee or any creditor can move to dismiss your case under 11 U.S.C. Section 1307(c)(9). Dismissal ends your bankruptcy protection, reverses any discharge progress, and allows creditors to resume collection immediately.
+
+Before You File: The 4-Year Look-Back
+
+Section 1308 requires that all tax returns due for the 4 tax years before filing must be filed before your Chapter 13 plan can be confirmed. If you have unfiled returns, you typically have until the date of the Section 341 meeting of creditors (about 30-45 days after filing) to get them filed.
+
+Example: If you file Chapter 13 in March 2026, you must have filed your tax returns for 2022, 2023, 2024, and 2025 (if the 2025 return is due before your 341 meeting). If any of these are missing, you must file them promptly.
+
+What If Returns Are Missing?
+
+File them as soon as possible: Your attorney should make this a priority before the 341 meeting.
+
+Request a continuance: If you need more time, the court may grant a brief continuance of the 341 meeting to allow you to file.
+
+Substitute for Return (SFR): If the IRS prepared a return for you (SFR), that does not satisfy the Section 1308 requirement. You must file your own return.
+
+The SFR problem: An IRS Substitute for Return is not the same as filing your own return. For Section 1308 purposes, you must file an actual return. If the IRS already assessed taxes based on an SFR, you should still file your own return -- it may show a lower tax liability.
+
+During the Plan: Annual Filing Obligations
+
+Every year during your Chapter 13 plan (typically 3-5 years), you must:
+
+File your federal and state tax returns on time (by April 15, or October 15 with an extension).
+
+Provide a copy to the trustee within the time required by local rules or the trustee's standing order (often within 7-14 days of filing).
+
+Report any significant income changes that could affect your plan payments.
+
+The trustee reviews your returns to monitor your income. If your income has increased significantly, the trustee may request a plan modification to increase your payments. Conversely, if your income has decreased, you may be able to modify the plan to reduce payments.
+
+What the Trustee Looks For
+
+Income changes: Significant raises, new jobs, or loss of income
+
+Tax refund amounts: Large refunds may be required to be turned over (see Tax Refunds)
+
+New tax debts: If you owe taxes for years during the plan, those become post-petition debts that must be addressed
+
+Consistency: Your reported income on the return should match what you disclosed in your bankruptcy schedules and plan
+
+Tax Refunds During Chapter 13
+
+Whether you can keep your tax refund during Chapter 13 depends heavily on your district and your plan. For detailed information, see our Tax Refunds in Bankruptcy page.
+
+In many districts, the trustee requires debtors to turn over all or a portion of their tax refunds to be distributed to creditors. Some districts have standing orders that set a specific threshold (for example, you keep the first $2,000 and turn over the rest). Other districts let you keep your refund entirely.
+
+Withholding strategy: Some people adjust their W-4 to reduce their tax refund and increase their take-home pay. This is generally permissible, but be careful -- you still need to have enough withheld to cover your tax liability. Owing taxes at the end of the year creates a new debt that can complicate your Chapter 13 case.
+
+New Tax Debts During Chapter 13
+
+If you incur new tax debt during your Chapter 13 plan (for example, you owe taxes for a year during the plan), this creates a problem. Post-petition tax debts are not covered by your plan and must be addressed separately.
+
+Staying current is critical: Your plan may require you to stay current on all post-petition tax obligations. Failure to do so can be grounds for dismissal.
+
+Plan modification: You may need to modify your plan to account for new tax obligations.
+
+Adjust withholding: If you are consistently owing taxes, increase your withholding or make estimated tax payments to prevent accumulating new debt.
+
+Practical Tips
+
+File electronically: E-filing creates a clear record of when you filed, which is useful if the trustee questions timeliness.
+
+Keep copies of everything: Save copies of all filed returns, e-filing confirmations, and any correspondence with the IRS or state tax authority.
+
+Communicate with your trustee: If you are going to be late filing, contact the trustee proactively. A brief delay with communication is far better than silence.
+
+Set up estimated payments: If you are self-employed or have income not subject to withholding, make quarterly estimated tax payments to avoid year-end tax bills.
+
+Review your plan: Read your confirmed plan carefully to understand what it says about tax refunds, post-petition taxes, and income changes.
+
+Frequently Asked Questions
+
+Do I have to file tax returns during Chapter 13?
+
+Yes. Under 11 U.S.C. Section 1308, you must file all returns for the 4 years before filing, and you must continue filing all returns on time every year during your plan. Failure to file is grounds for dismissal under Section 1307(c)(9).
+
+What happens if I don't file my taxes during Chapter 13?
+
+The trustee, IRS, or any creditor can move to dismiss your case. Dismissal ends your bankruptcy protection, reverses your discharge progress, and lets creditors resume collection. Some courts will give you a brief opportunity to catch up, but many will dismiss the case without much delay.
+
+Does the trustee see my tax returns?
+
+Yes. Under 11 U.S.C. Section 521(f), you must provide copies of your tax returns or transcripts to the trustee annually. The trustee uses this information to monitor your income and ensure your plan payments are appropriate. Significant income increases may lead to a motion to increase your plan payments.
+
+Related Resources
+
+Tax Refunds in Bankruptcy -- can the trustee take your refund?
+
+Chapter 13 Plans -- how repayment plans work
+
+Dismissed Bankruptcy -- what happens when your case is dismissed
+
+Section 1328 Discharge -- completing your Chapter 13 and getting a discharge
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org relieffromstay.org dischargeinjunction.org dischargeinjunction.com 523a.org 109g.org 727a8.org 727a8.com prosedebtors.org whatischapter7.com whatischapter7.org chapter13plan.org lienstripping.org nondischargeable.org bankruptcyfreshstart.org reaffirmationagreement.org dischargebar.org section1328.org bankruptcytaxes.org dismissedbankruptcy.org serialfiler.org codebtorstay.org bankruptcyhardship.org voluntarypetition.org ♥ Sponsor GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Last updated: March 2026
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Can Bankruptcy Eliminate Tax Debt? 5 Rules (2026 Guide)
+Source: https://bankruptcytaxes.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+Taxes and Bankruptcy
+
+Section 523(a)(1) tax debt rules and priority tax claims
+
+Network › Taxes and Bankruptcy
+
+About This Site
+
+Tax debts in bankruptcy are governed by a complex set of rules that determine whether a particular tax obligation can be discharged, must be paid in full through a plan, or falls somewhere in between. The key provisions are Section 523(a) nondischargeable debts(a)(1) (nondischargeability of certain taxes), Section 507(a)(8) (priority tax claims), and Section 1322(a)(2) (mandatory full payment of priority claims in Chapter 13).
+
+This site will explain the three-part test for determining whether income tax debts are dischargeable: the three-year rule, the two-year rule, and the 240-day rule. We will cover the exceptions that reset these clocks (extensions, amended returns, offers in compromise) and the critical distinction between tax debts that are merely old and those that are actually dischargeable.
+
+We will also address trust fund taxes (which are never dischargeable), tax liens (which survive discharge even when the underlying debt is discharged), and the interaction between IRS payment plans and bankruptcy filing strategies.
+
+Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+
+Three Rules for Discharging Tax Debt
+
+1. 3-Year Rule: Tax return was due more than 3 years before filing. Details
+
+2. 2-Year Rule: Tax return was filed more than 2 years before filing.
+
+3. 240-Day Rule: Tax was assessed more than 240 days before filing. Details
+
+All three must be met. Tax liens may survive even if the debt is discharged.
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Resources
+
+Section 523(a) nondischargeable debts -- Which debts survive bankruptcy under Section 523(a)
+
+debts that cannot be discharged -- Complete guide to debts that survive bankruptcy
+
+Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Which chapter addresses your type of debt?
+
+chapter7vs13.org →
+
+How Much Does It Cost?
+
+Filing fees and attorney costs by chapter
+
+howmuchdoesbankruptcycost.com →
+
+The Automatic Stay
+
+How filing immediately stops collections
+
+automaticstay.org →
+
+How Discharge Works
+
+Which debts get wiped and which survive
+
+bankruptcydischarge.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+relieffromstay.org
+dischargeinjunction.org
+dischargeinjunction.com
+523a.org
+109g.org
+727a8.org
+727a8.com
+prosedebtors.org
+whatischapter7.com
+whatischapter7.org
+chapter13plan.org
+lienstripping.org
+nondischargeable.org
+bankruptcyfreshstart.org
+reaffirmationagreement.org
+dischargebar.org
+section1328.org
+bankruptcytaxes.org
+dismissedbankruptcy.org
+serialfiler.org
+codebtorstay.org
+bankruptcyhardship.org
+voluntarypetition.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## IRS Payment Plan vs. Bankruptcy -- Which Is Better for Tax Debt?
+Source: https://bankruptcytaxes.org/irs-payment-plan.html
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+IRS Payment Plan vs. Bankruptcy
+
+Comparing installment agreements, offers in compromise, and bankruptcy for tax debt
+
+Network › Taxes and Bankruptcy › IRS vs Bankruptcy
+
+Three Paths for Tax Debt
+
+If you owe more in taxes than you can pay, you generally have three options: an IRS installment agreement (payment plan), an offer in compromise (settle for less), or bankruptcy. Each has advantages and drawbacks, and the best choice depends on how much you owe, how old the taxes are, what other debts you have, and your overall financial situation.
+
+This page compares these options side by side to help you understand when each makes sense.
+
+Option 1: IRS Installment Agreement
+
+An installment agreement is a payment plan with the IRS that lets you pay your tax debt over time, typically up to 72 months (6 years). The IRS offers several types:
+
+Streamlined agreement (owe $50,000 or less): The IRS must accept if you can pay within 72 months. Minimal financial disclosure required.
+
+Non-streamlined agreement (owe more than $50,000): Requires detailed financial disclosure. IRS reviews your income, expenses, and assets. Acceptance is discretionary.
+
+Partial payment agreement: Monthly payments based on what the IRS determines you can afford. May not pay the full balance before the collection statute expires.
+
+Advantages
+
+No bankruptcy on your credit report
+
+You keep all your assets
+
+No court involvement
+
+Relatively simple to set up (especially streamlined)
+
+Late payment penalty reduced from 0.5% to 0.25% per month
+
+Disadvantages
+
+Interest and penalties continue to accrue on the unpaid balance (often 7-10% effective rate)
+
+You pay the full amount owed plus accumulated interest and penalties
+
+Setup fees ($31-$225 depending on type)
+
+If you default, the IRS can terminate the agreement and resume full collection
+
+Does not address other debts (credit cards, medical bills, etc.)
+
+Tax liens may still be filed and remain in place during the agreement
+
+The hidden cost: On a $50,000 tax debt paid over 6 years, interest and penalties can add $15,000-$25,000 or more to the total amount paid. The IRS charges the federal short-term rate plus 3%, compounded daily, plus a monthly late payment penalty. You may end up paying far more than the original tax.
+
+Option 2: Offer in Compromise
+
+An offer in compromise (OIC) lets you settle your tax debt for less than the full amount owed. The IRS accepts an OIC when it determines the offered amount is the most it can reasonably expect to collect.
+
+Advantages
+
+Can reduce the total amount owed significantly
+
+No bankruptcy on your credit report
+
+Full resolution of the tax debt once accepted and paid
+
+Disadvantages
+
+Low acceptance rate -- the IRS rejects most offers
+
+Strict qualification: the IRS evaluates your "reasonable collection potential" based on income, expenses, and assets
+
+Non-refundable application fee ($205) plus initial payment (20% lump sum or first month of payment plan)
+
+Processing takes 6-24 months
+
+Must stay current on all tax filings for 5 years after acceptance, or the OIC is revoked
+
+Tolls the 240-day rule and 3-year rule -- if the OIC is rejected, your bankruptcy timing is pushed back
+
+The OIC-then-bankruptcy trap: Submitting an offer in compromise tolls the 240-day rule and the 3-year rule for bankruptcy discharge. If the OIC is rejected after months of review, you have lost that time. The taxes that might have been dischargeable in bankruptcy are now nondischargeable for additional months. If you are considering bankruptcy as a backup plan, submitting an OIC first can be counterproductive.
+
+Option 3: Bankruptcy
+
+Chapter 7 Bankruptcy
+
+Chapter 7 can discharge qualifying income tax debts completely -- no repayment required. But the tax must meet all the timing rules:
+
+3-year rule: Return was due more than 3 years ago
+
+240-day rule: Tax assessed more than 240 days ago
+
+2-year rule: Return was filed more than 2 years ago
+
+No fraud or willful evasion
+
+Chapter 7 also addresses all your other debts simultaneously -- credit cards, medical bills, personal loans. This is a major advantage over IRS payment plans, which only address tax debt.
+
+Chapter 13 Bankruptcy
+
+Chapter 13 provides a 3-5 year repayment plan supervised by the court. For tax debt:
+
+Priority taxes (not meeting timing rules): Must be paid in full through the plan, but typically without additional interest or penalties
+
+Non-priority taxes (meeting timing rules): Treated as general unsecured debt -- may be paid pennies on the dollar or nothing
+
+Tax liens: Can be valued under Section 506 and paid only to the extent of property equity
+
+Advantages of Bankruptcy
+
+Can eliminate qualifying tax debt entirely (Chapter 7) or significantly reduce total payments (Chapter 13)
+
+Addresses all debts at once, not just taxes
+
+Automatic stay stops IRS collection immediately upon filing
+
+No interest accrual on unsecured taxes during Chapter 13
+
+Chapter 13 can address tax liens that IRS payment plans cannot
+
+Structured timeline with a defined end date
+
+Disadvantages of Bankruptcy
+
+Bankruptcy appears on credit report for 7 years (Chapter 13) or 10 years (Chapter 7)
+
+Court oversight and filing requirements
+
+Attorney fees (typically $1,500-$4,000 for Chapter 7, $3,000-$6,000 for Chapter 13)
+
+Must qualify: Chapter 7 requires passing the means test; Chapter 13 requires regular income
+
+Trust fund taxes and recent taxes are still nondischargeable
+
+Decision Framework
+
+Bankruptcy Is Usually Better When:
+
+Tax debt is large (over $10,000) and meets the timing rules for discharge
+
+You have significant non-tax debts too (credit cards, medical, personal loans)
+
+The IRS has already filed a lien and you need Chapter 13 tools to address it
+
+You cannot afford the IRS payment plan with interest and penalties
+
+You want a defined end date rather than an open-ended payment obligation
+
+IRS Payment Plan Is Usually Better When:
+
+Tax debt is relatively small (under $10,000)
+
+The taxes are too recent to discharge in bankruptcy
+
+You have no other significant debts
+
+You can comfortably make the monthly payments with interest
+
+Avoiding a bankruptcy filing on your credit report is a high priority
+
+Offer in Compromise May Be Worth Considering When:
+
+You have very limited income and assets (genuine inability to pay)
+
+The taxes are too recent for bankruptcy discharge and the amount is very large
+
+You are not considering bankruptcy as a backup option (to avoid the tolling trap)
+
+Key insight: Many people default to an IRS payment plan without considering bankruptcy. But when the tax debt is old enough to meet the timing rules, Chapter 7 can eliminate it entirely -- which is almost always better than paying the full amount plus interest over 6 years. Run the timing calculations first before committing to a payment plan.
+
+Frequently Asked Questions
+
+Is it better to do an IRS payment plan or file bankruptcy?
+
+It depends on the amount of tax debt, whether you have other debts, and whether the tax meets the timing rules for discharge. An IRS payment plan makes sense for smaller amounts of recent taxes. Bankruptcy is often the better choice for large, older tax debts -- especially when you have other debts too. The key is to calculate whether the taxes are dischargeable before committing to a payment plan.
+
+Can I include IRS debt in Chapter 13?
+
+Yes. All IRS debt can be included in a Chapter 13 plan. Priority taxes (those not meeting the timing rules) must be paid in full, but typically without additional interest or penalties. Non-priority taxes are treated as general unsecured claims and may be paid at a significantly reduced rate.
+
+Does the IRS have to accept a payment plan?
+
+For debts of $50,000 or less, the IRS must accept a streamlined installment agreement if you can pay within 72 months and agree to all terms. For debts over $50,000, acceptance is at the IRS's discretion and requires detailed financial disclosure. Even with a streamlined agreement, interest and penalties continue to accrue.
+
+What interest rate does the IRS charge on payment plans?
+
+The IRS charges the federal short-term rate plus 3%, compounded daily. Additionally, a late payment penalty of 0.25% per month accrues during an installment agreement (reduced from the normal 0.5%). The combined effective rate is often 7-10% or more, depending on current interest rates. On a large balance paid over several years, this can add tens of thousands of dollars to the total amount paid.
+
+Related Resources
+
+Chapter 13 Plans -- how Chapter 13 repayment plans work
+
+Means Test -- qualifying for Chapter 7 bankruptcy
+
+How to File Bankruptcy -- step-by-step filing guide
+
+The 3-Year Rule -- the first timing test for tax discharge
+
+The 240-Day Rule -- the assessment timing test
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org relieffromstay.org dischargeinjunction.org dischargeinjunction.com 523a.org 109g.org 727a8.org 727a8.com prosedebtors.org whatischapter7.com whatischapter7.org chapter13plan.org lienstripping.org nondischargeable.org bankruptcyfreshstart.org reaffirmationagreement.org dischargebar.org section1328.org bankruptcytaxes.org dismissedbankruptcy.org serialfiler.org codebtorstay.org bankruptcyhardship.org voluntarypetition.org ♥ Sponsor GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Last updated: March 2026
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Payroll Taxes and Bankruptcy -- Trust Fund Taxes Are Never Dischargeable
+Source: https://bankruptcytaxes.org/payroll-taxes.html
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+Payroll Taxes and Bankruptcy
+
+Trust fund taxes are never dischargeable -- but Chapter 13 can help you pay them
+
+Network › Taxes and Bankruptcy › Payroll Taxes
+
+What Are Trust Fund Taxes?
+
+When a business pays employees, it withholds income taxes and the employee's share of FICA (Social Security and Medicare taxes) from each paycheck. This money belongs to the government -- the business is holding it "in trust" until it is remitted. These are called "trust fund" taxes.
+
+Trust fund taxes include:
+
+Federal income tax withholding -- the amount withheld from employee paychecks for federal income tax
+
+Employee share of FICA -- the employee's 7.65% contribution to Social Security and Medicare
+
+Trust fund taxes do not include:
+
+Employer share of FICA -- the employer's matching 7.65% is the employer's own obligation, not trust fund
+
+Federal unemployment tax (FUTA) -- this is the employer's obligation
+
+The critical rule: Trust fund taxes are always priority claims under 11 U.S.C. Section 507(a)(8)(C) and nondischargeable under Section 523(a)(1)(A). There is no timing test, no age threshold, and no exception. They survive bankruptcy in every chapter.
+
+The Trust Fund Recovery Penalty (TFRP)
+
+When a business fails to remit trust fund taxes, the IRS does not just pursue the business. Under 26 U.S.C. Section 6672, the IRS can assess the full amount of unpaid trust fund taxes against any individual who was a "responsible person" and "willfully" failed to collect or pay the taxes.
+
+This is commonly called the "100% penalty" -- not because there is an additional penalty on top of the tax, but because the assessment against the individual equals 100% of the unpaid trust fund taxes. It is the same amount, assessed against a different person.
+
+For a detailed discussion of responsible person analysis, willfulness, and defense strategies, see our Trust Fund Recovery Penalty page.
+
+Personal liability: The TFRP creates personal liability for business owners, officers, and sometimes managers -- even if the business itself has been dissolved or has no assets. The IRS can pursue the individual's personal assets, wages, and bank accounts.
+
+Payroll Taxes in Chapter 7
+
+Chapter 7 provides no relief for trust fund taxes. They are priority claims that are nondischargeable. After your Chapter 7 case closes, you will still owe the full amount of trust fund taxes, plus any interest and penalties.
+
+Chapter 7 may help with the employer share of FICA and FUTA if those taxes meet the timing rules (3-year rule, 240-day rule, 2-year filing rule). The employer share is not a trust fund tax and may be treated as a general income tax for discharge purposes. However, this is a nuanced area and not all courts agree on the treatment.
+
+Payroll Taxes in Chapter 13
+
+Chapter 13 is the far better option for dealing with trust fund tax debt. While the taxes cannot be discharged, Chapter 13 provides significant advantages:
+
+Structured repayment: Trust fund taxes must be paid in full through the plan (11 U.S.C. Section 1322(a)(2)), but you get 3-5 years to pay them.
+
+Stop collection: The automatic stay halts all IRS collection activity -- levies, garnishments, and liens -- while the plan is in effect.
+
+Penalty freeze: In most cases, additional penalties stop accruing once the bankruptcy is filed. Interest may continue on priority taxes, but the penalty bleeding stops.
+
+Combined resolution: Chapter 13 addresses all your debts -- trust fund taxes, other taxes, credit cards, medical bills -- in one plan.
+
+Protection from TFRP collection: If you are personally liable under the TFRP, the automatic stay protects you from IRS collection during the plan.
+
+Example: You owe $45,000 in trust fund taxes from your business. In a 5-year Chapter 13 plan, that is $750/month just for the trust fund taxes, plus whatever is needed for other debts. Without bankruptcy, the IRS could levy your bank account, garnish your wages, and seize assets. Chapter 13 gives you a structured payment with protection from aggressive collection.
+
+The Employer Share -- A Different Analysis
+
+The employer's share of FICA (the matching 7.65%) and FUTA are not trust fund taxes. They are the employer's own obligation. For purposes of bankruptcy discharge, they are analyzed under the same rules as income taxes:
+
+If the employer share was assessed more than 240 days ago and the return was due more than 3 years ago and was filed more than 2 years ago, it may be dischargeable.
+
+If the timing rules are not met, it is a priority claim that must be paid in full.
+
+This creates an important distinction in mixed payroll tax situations. The trust fund portion (employee withholding + employee FICA) is never dischargeable. The non-trust-fund portion (employer FICA + FUTA) may be dischargeable if the timing rules are met.
+
+Practical Implications for Business Owners
+
+Chapter 7 is usually not enough: If your primary debt is payroll taxes, Chapter 7 will not help because the trust fund portion survives.
+
+Chapter 13 is the primary tool: Use Chapter 13 to structure repayment over 3-5 years while stopping aggressive IRS collection.
+
+Separate trust fund from non-trust-fund: Work with your attorney to identify exactly how much of your payroll tax debt is trust fund (nondischargeable) vs. employer share (potentially dischargeable).
+
+Check for TFRP assessment: If the IRS has assessed the TFRP against you personally, that personal assessment has its own timing. The 240-day rule applies to the date the TFRP was assessed against you, not the date the original business tax was assessed.
+
+Multiple responsible persons: If other people were also responsible persons, the IRS may be collecting from them too. Payments by co-responsible persons reduce your liability.
+
+Frequently Asked Questions
+
+Can payroll taxes be discharged in bankruptcy?
+
+Trust fund payroll taxes (employee income tax withholding and employee FICA) can never be discharged. They are priority claims under 11 U.S.C. Section 507(a)(8)(C). The employer's share of FICA and FUTA may be dischargeable if they meet the standard timing rules for tax discharge.
+
+What is the trust fund recovery penalty?
+
+The TFRP (26 U.S.C. Section 6672) allows the IRS to assess unpaid trust fund taxes against any "responsible person" who willfully failed to collect or remit the taxes. It is called the "100% penalty" because the assessment equals the full amount of the unpaid trust fund taxes. It creates personal liability for business owners and officers.
+
+Can I pay payroll taxes through a Chapter 13 plan?
+
+Yes. Trust fund taxes must be paid in full through the Chapter 13 plan under 11 U.S.C. Section 1322(a)(2). You get 3-5 years to pay, the automatic stay stops IRS collection, and in most cases additional penalties stop accruing. This is the primary bankruptcy tool for managing trust fund tax debt.
+
+Who is a responsible person for payroll taxes?
+
+A responsible person is anyone with authority over the business's financial affairs, specifically the authority to determine which creditors get paid. This includes business owners, corporate officers, and sometimes managers or bookkeepers who had check-signing authority. The IRS can hold multiple people liable for the same trust fund taxes.
+
+Related Resources
+
+The Trust Fund Recovery Penalty -- deep dive on Section 6672
+
+Section 523(a) Exceptions to Discharge -- nondischargeable debts
+
+Nondischargeable Debts -- complete guide
+
+Chapter 13 Plans -- how repayment plans work
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org relieffromstay.org dischargeinjunction.org dischargeinjunction.com 523a.org 109g.org 727a8.org 727a8.com prosedebtors.org whatischapter7.com whatischapter7.org chapter13plan.org lienstripping.org nondischargeable.org bankruptcyfreshstart.org reaffirmationagreement.org dischargebar.org section1328.org bankruptcytaxes.org dismissedbankruptcy.org serialfiler.org codebtorstay.org bankruptcyhardship.org voluntarypetition.org ♥ Sponsor GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Last updated: March 2026
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Can State Taxes Be Discharged in Bankruptcy?
+Source: https://bankruptcytaxes.org/state-taxes.html
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+Can State Taxes Be Discharged in Bankruptcy?
+
+State income taxes, property taxes, and sales taxes -- different rules for different types
+
+Network › Taxes and Bankruptcy › State Taxes
+
+State Taxes and Bankruptcy -- Overview
+
+When most people think about taxes and bankruptcy, they think about the IRS. But state tax debts are just as common -- and in many cases, the same federal bankruptcy rules that govern federal taxes also apply to state taxes. The Bankruptcy Code does not distinguish between federal and state taxing authorities for most purposes.
+
+However, different types of state taxes are treated differently. State income taxes follow the same timing rules as federal income taxes. Property taxes have their own rule. And sales taxes that a business collected but failed to remit are in a category by themselves -- they can never be discharged.
+
+State Income Taxes
+
+State income taxes are treated identically to federal income taxes under the Bankruptcy Code. The same three timing tests apply:
+
+3-year rule (11 U.S.C. Section 507(a)(8)(A)(i)): The state tax return must have been due (with extensions) more than 3 years before the bankruptcy filing.
+
+240-day rule (11 U.S.C. Section 507(a)(8)(A)(ii)): The state must have assessed the tax more than 240 days before the filing.
+
+2-year rule (11 U.S.C. Section 523(a)(1)(B)(ii)): The state tax return must have been filed more than 2 years before the bankruptcy petition.
+
+If all three tests are met and there was no fraud or willful evasion, the state income tax debt can be discharged.
+
+State-Specific Complications
+
+While the federal timing rules apply uniformly, the assessment process varies by state. Some states assess taxes immediately upon processing a return, while others have longer processing timelines. A few important differences:
+
+Assessment dates: Some states do not use the same terminology or process as the IRS. You may need to request a state tax transcript or account statement to determine the assessment date.
+
+Extensions: State extension rules may differ from federal rules. Some states automatically grant an extension if you received a federal extension; others require a separate state extension request. The 3-year clock runs from the state's due date, including state-specific extensions.
+
+Separate state filings: If you lived in multiple states, each state's taxes are evaluated separately. You might be able to discharge taxes owed to one state but not another.
+
+Practical tip: Contact your state's department of revenue (or equivalent agency) and request a complete account transcript showing assessment dates, payment history, and any adjustments. This is the state equivalent of the IRS Account Transcript.
+
+Property Taxes
+
+Property taxes have their own priority rule under 11 U.S.C. Section 507(a)(8)(B). Property taxes or assessments on real property are priority claims if they became due within 1 year before the bankruptcy filing (or became due after the filing).
+
+This means:
+
+Property taxes due more than 1 year before filing: Not priority claims. Can potentially be discharged as general unsecured debt.
+
+Property taxes due within 1 year before filing: Priority claims. Cannot be discharged in Chapter 7; must be paid in full in Chapter 13.
+
+Lien complication: Even when property tax debt is dischargeable, the tax lien attached to the property survives bankruptcy. The county or municipality can still foreclose on the property to collect the lien, even after your personal liability is discharged. See Tax Liens for more detail.
+
+In Chapter 13, delinquent property taxes must typically be addressed in the plan to prevent foreclosure. Many Chapter 13 plans cure property tax arrears over the life of the plan while the debtor continues to pay current taxes directly.
+
+Sales Taxes -- The Trust Fund Problem
+
+Sales taxes that a business collected from customers are "trust fund" taxes under 11 U.S.C. Section 507(a)(8)(C). These are always priority claims and can never be discharged in bankruptcy, regardless of how old they are.
+
+The logic is straightforward: when a business collects sales tax from a customer, the business is holding that money in trust for the state. The money was never the business's money to spend. Using it for other purposes is essentially a breach of trust.
+
+Who Is Liable?
+
+The business entity is primarily liable for unremitted sales taxes. But many states also have "responsible person" statutes that allow the state to assess the trust fund portion against individual officers, directors, or managers who had authority over the business's financial decisions -- similar to the IRS Trust Fund Recovery Penalty for payroll taxes.
+
+No escape: Trust fund sales taxes survive both Chapter 7 and Chapter 13 as nondischargeable priority claims. In Chapter 13, they must be paid in full through the plan. In Chapter 7, the full amount survives discharge. There is no timing test that makes them dischargeable.
+
+State Tax Liens
+
+State tax liens behave just like federal tax liens in bankruptcy. A properly filed state tax lien survives the bankruptcy discharge. Your personal liability for the underlying tax may be eliminated, but the lien remains attached to property you owned at the time of filing.
+
+This creates a practical problem: if you own a home and the state has filed a tax lien, discharging the personal liability does not remove the lien from your home. If you later sell the home, the lien must be satisfied from the sale proceeds.
+
+Chapter 13 provides more tools for dealing with state tax liens. In some cases, the lien can be valued and paid through the plan at the value of the property it attaches to, rather than the full amount of the tax debt. This is particularly useful when the property is worth less than the total liens against it.
+
+Practical Steps for State Tax Debt
+
+Request state tax transcripts: Get assessment dates, filing dates, and lien information from your state's tax authority.
+
+Identify the type of tax: Income tax, property tax, and sales tax have different rules. Classify each debt correctly.
+
+Check for trust fund exposure: If you operated a business, determine whether any of the state tax debt involves collected-but-unremitted sales taxes.
+
+Apply the timing tests: Run the 3-year, 240-day, and 2-year calculations for each state income tax year, just as you would for federal taxes.
+
+Check for liens: Search your county's records for any filed state tax liens. Liens survive discharge even when the underlying debt is eliminated.
+
+Consider Chapter 13: If you have a mix of dischargeable and nondischargeable state taxes, Chapter 13 can structure repayment of the priority taxes while the non-priority taxes are treated as general unsecured claims.
+
+Frequently Asked Questions
+
+Are state income taxes treated the same as federal in bankruptcy?
+
+Yes. The Bankruptcy Code's timing rules for tax discharge -- the 3-year rule, 240-day rule, and 2-year filing rule -- apply equally to state and federal income taxes. If a state income tax debt meets all the timing requirements and there was no fraud, it can be discharged just like a federal tax debt.
+
+Can I discharge property taxes in bankruptcy?
+
+Property taxes can be discharged if they became due more than 1 year before the bankruptcy filing, under 11 U.S.C. Section 507(a)(8)(B). However, any tax lien attached to the property survives the discharge. This means the taxing authority can still foreclose on the property even though your personal liability has been eliminated.
+
+What about state sales tax debt?
+
+Sales taxes that a business collected from customers but did not remit to the state are classified as "trust fund" taxes. Under 11 U.S.C. Section 507(a)(8)(C), these are always priority claims and can never be discharged in bankruptcy, regardless of their age. They must be paid in full.
+
+Do state tax liens survive bankruptcy?
+
+Yes. State tax liens survive bankruptcy just like federal tax liens. The personal liability for the tax may be discharged, but the lien remains attached to property you owned when you filed. Chapter 13 offers some tools for addressing tax liens through the repayment plan, but Chapter 7 does not eliminate them.
+
+Related Resources
+
+Tax Liens and Bankruptcy -- what happens when liens survive discharge
+
+Nondischargeable Debts -- complete guide to debts that survive bankruptcy
+
+Section 523(a) Exceptions to Discharge -- the full list of nondischargeable debts
+
+Payroll Taxes and Bankruptcy -- trust fund taxes for employers
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org relieffromstay.org dischargeinjunction.org dischargeinjunction.com 523a.org 109g.org 727a8.org 727a8.com prosedebtors.org whatischapter7.com whatischapter7.org chapter13plan.org lienstripping.org nondischargeable.org bankruptcyfreshstart.org reaffirmationagreement.org dischargebar.org section1328.org bankruptcytaxes.org dismissedbankruptcy.org serialfiler.org codebtorstay.org bankruptcyhardship.org voluntarypetition.org ♥ Sponsor GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Last updated: March 2026
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Tax Liens Survive Bankruptcy -- What You Need to Know
+Source: https://bankruptcytaxes.org/tax-liens.html
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+Tax Liens Survive Bankruptcy
+
+The critical difference between discharging tax debt and removing tax liens
+
+Network › Taxes and Bankruptcy › Tax Liens
+
+The Key Distinction: Personal Liability vs. Lien
+
+This is one of the most important -- and most misunderstood -- concepts in tax-bankruptcy law. Bankruptcy can discharge your personal liability for a tax debt. That means you no longer owe the money. The IRS or state cannot garnish your wages, levy your bank account, or take any personal collection action against you.
+
+But a tax lien is different. A tax lien is an interest in your property. Once a tax lien has been properly filed, it attaches to property you own. And liens survive bankruptcy. Even after your personal liability is discharged, the lien remains on the property.
+
+What this means in practice: If the IRS filed a tax lien before you filed bankruptcy, and you own a house, the lien stays on the house after bankruptcy. You do not personally owe the tax anymore, but if you sell the house, the IRS gets paid from the sale proceeds up to the amount of the lien.
+
+Federal Tax Lien vs. Notice of Federal Tax Lien
+
+There is an important technical distinction between the federal tax lien itself and the Notice of Federal Tax Lien (NFTL).
+
+Statutory lien: Under 26 U.S.C. Section 6321, a federal tax lien arises automatically when a tax is assessed and the taxpayer fails to pay after demand. This lien exists even without any public filing -- it is created by operation of law.
+
+Notice of Federal Tax Lien (NFTL): The NFTL is a public document filed with the county recorder or secretary of state. It puts third parties on notice that the lien exists. Without the NFTL, the lien may not be enforceable against certain third parties (like subsequent purchasers or other creditors).
+
+For bankruptcy purposes, the distinction matters. A lien that has been properly noticed (NFTL filed) is more difficult to avoid. But even a statutory lien without a filed NFTL can survive bankruptcy in some circumstances, depending on whether there is property to which it can attach.
+
+How Tax Liens Work After Discharge
+
+After bankruptcy discharge, the tax lien operates as follows:
+
+Property owned at filing: The lien remains attached to any property you owned when you filed bankruptcy. If you sell the property, the lien must be satisfied from the proceeds.
+
+Property acquired after filing: The lien does not attach to property you acquire after the bankruptcy filing date. Your post-bankruptcy earnings and purchases are free from the pre-petition tax lien.
+
+Lien expiration: Federal tax liens expire 10 years from the date of assessment (with some extensions). After the collection statute expires, the lien is released. State tax lien durations vary by state.
+
+No personal collection: Even though the lien survives, the IRS cannot use personal collection tools (wage garnishment, bank levy) because the personal liability was discharged. They can only enforce the lien against the specific property.
+
+Silver lining: If you do not own any significant property when you file bankruptcy, a surviving tax lien may be practically meaningless. With no property to attach to, the lien has nothing to enforce against. This is common in Chapter 7 cases where the debtor has few assets.
+
+Chapter 7 and Tax Liens
+
+Chapter 7 offers limited tools for dealing with tax liens. The discharge eliminates your personal liability, but the lien survives. The practical effect depends on your property:
+
+No property: The lien survives on paper but has nothing to attach to. As a practical matter, you are free of the tax debt.
+
+Fully encumbered property: If your property has no equity (the mortgage and other liens exceed the value), the tax lien may be worthless because there is nothing for it to attach to. Some courts allow debtors to seek a determination that the lien has been extinguished to the extent it exceeds the value of the property.
+
+Property with equity: This is the problem case. The tax lien attaches to your equity. If you sell the property, the IRS must be paid from the proceeds. You may choose to hold the property and wait for the 10-year collection statute to expire, at which point the lien is released.
+
+Chapter 13 and Tax Liens
+
+Chapter 13 provides significantly more tools for dealing with tax liens. This is one of the major advantages of Chapter 13 over Chapter 7 for tax debt.
+
+Paying the Secured Portion Through the Plan
+
+In Chapter 13, a tax lien can be divided into a secured portion (equal to the value of the property the lien attaches to) and an unsecured portion. Under 11 U.S.C. Section 506, the secured claim is limited to the value of the collateral. The unsecured portion is treated as a general unsecured claim and may be paid at a reduced rate or not at all.
+
+Example: You owe $30,000 in tax debt and the IRS has a lien on your home. Your home is worth $200,000 with a $190,000 mortgage. The equity is $10,000. The IRS lien is secured only to the extent of $10,000 -- that must be paid through the plan. The remaining $20,000 is unsecured and may be discharged upon plan completion.
+
+Lien Release After Plan Completion
+
+After you complete your Chapter 13 plan and receive a discharge, you can seek release of the tax lien. If you paid the secured portion of the lien through the plan, the IRS should release the lien. You may need to file a motion with the bankruptcy court if the IRS does not voluntarily release it.
+
+Priority tax liens: If the underlying tax is a priority claim (meaning the timing tests for discharge are not met), the full amount must be paid through the Chapter 13 plan under 11 U.S.C. Section 1322(a)(2). In that case, the lien is paid in full and then released.
+
+Strategies for Dealing with Tax Liens
+
+File before the lien is recorded: If you know the IRS is about to file a Notice of Federal Tax Lien, filing bankruptcy first means there is no lien to survive. The automatic stay prevents the IRS from filing a new lien while the case is pending.
+
+Chapter 13 lien valuation: Use Section 506 to limit the secured claim to the value of your equity. Pay only the secured portion through the plan.
+
+Wait out the collection statute: Federal tax liens expire 10 years from assessment. If you can hold your property until the statute expires, the lien is released by operation of law.
+
+Negotiate lien release post-discharge: After discharge, you can contact the IRS and request a lien discharge or subordination for specific property, especially if the lien exceeds the equity.
+
+Sell property pre-bankruptcy: If you sell property before filing and the proceeds are used to purchase exempt assets, the lien may have nothing to attach to. This requires careful planning and timing.
+
+Frequently Asked Questions
+
+Does a tax lien go away in bankruptcy?
+
+No. A properly filed tax lien survives bankruptcy. Your personal liability for the tax can be discharged, meaning you no longer owe the money and the IRS cannot use personal collection methods. But the lien remains attached to property you owned when you filed. The IRS can still enforce the lien against that specific property.
+
+What happens to a tax lien after Chapter 7 discharge?
+
+After Chapter 7 discharge, the personal obligation is gone but the lien remains on property you owned at the time of filing. If you sell that property, the IRS gets paid from the proceeds. The lien does not attach to property you acquire after bankruptcy. Eventually, the lien expires when the 10-year collection statute runs out.
+
+Can Chapter 13 remove a tax lien?
+
+Chapter 13 cannot remove a tax lien outright, but it provides tools to address it. The lien can be valued under Section 506, limiting the secured claim to the equity in the property. The unsecured portion is treated as a general unsecured claim. After you complete the plan and pay the secured portion, the lien can be released.
+
+Should I file bankruptcy before or after a tax lien is filed?
+
+Filing before a tax lien is recorded is generally advantageous because there is no lien to survive the discharge. Once a lien is filed, it attaches to your property and survives bankruptcy. However, even after a lien is filed, Chapter 13 provides tools to manage it. The best timing depends on your specific property, equity, and the amount of tax debt.
+
+Related Resources
+
+Lien Stripping in Bankruptcy -- removing junior liens from real property
+
+Relief from Stay -- when creditors ask the court to lift bankruptcy protection
+
+The 3-Year Rule -- the first timing test for tax discharge
+
+State Taxes and Bankruptcy -- state tax liens and discharge rules
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org relieffromstay.org dischargeinjunction.org dischargeinjunction.com 523a.org 109g.org 727a8.org 727a8.com prosedebtors.org whatischapter7.com whatischapter7.org chapter13plan.org lienstripping.org nondischargeable.org bankruptcyfreshstart.org reaffirmationagreement.org dischargebar.org section1328.org bankruptcytaxes.org dismissedbankruptcy.org serialfiler.org codebtorstay.org bankruptcyhardship.org voluntarypetition.org ♥ Sponsor GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Last updated: March 2026
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Can the Bankruptcy Trustee Take My Tax Refund?
+Source: https://bankruptcytaxes.org/tax-refund.html
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+Can the Trustee Take My Tax Refund?
+
+How tax refunds are handled in Chapter 7 and Chapter 13 bankruptcy
+
+Network › Taxes and Bankruptcy › Tax Refunds
+
+Tax Refunds in Chapter 7
+
+In Chapter 7, a tax refund is property of the bankruptcy estate. This means the trustee can take it and distribute it to your creditors -- unless you can claim it as exempt.
+
+Timing Matters
+
+The key question is: what portion of the refund was earned before your bankruptcy filing date?
+
+Pre-petition portion: If you file bankruptcy in June, roughly half of the year's tax refund (the portion attributable to January through June) is property of the estate.
+
+Post-petition portion: The portion attributable to months after filing belongs to you and is not property of the estate.
+
+In practice, most Chapter 7 trustees look at the full refund for the tax year in which you filed, and some also look at the refund for the year before filing if it has not yet been received.
+
+Protecting Your Refund with Exemptions
+
+You can protect your tax refund by claiming it as exempt on your bankruptcy schedules. The available exemptions depend on your state:
+
+Federal wildcard exemption: If your state allows federal exemptions, 11 U.S.C. Section 522(d)(5) provides a wildcard exemption that can be used for any property, including tax refunds. The amount varies and can be significant if you are not using it for other property.
+
+State exemptions: Some states have specific exemptions for tax refunds. Others allow you to use a general personal property or wildcard exemption.
+
+EITC and child tax credits: These have strong arguments for exemption (see below).
+
+Tax Refunds in Chapter 13
+
+Chapter 13 treatment of tax refunds varies dramatically by district. There is no single national rule. Instead, each trustee and each district has developed its own approach.
+
+Common Approaches
+
+Full turnover: Some trustees require you to turn over 100% of your tax refund each year. The refund is distributed to creditors through the plan.
+
+Partial turnover with threshold: Some districts allow you to keep refunds up to a certain amount (for example, $2,000 or $2,500) and turn over the excess.
+
+No turnover required: Some districts do not require any refund turnover, treating the refund as part of the debtor's budget already accounted for in the plan.
+
+Plan-specific: Some plans specifically address tax refunds. Your confirmed plan may say exactly what happens to your refund.
+
+Check your plan and local rules: Before spending your tax refund during Chapter 13, verify what your plan says and whether your trustee has a standing order about refunds. Spending a refund you were supposed to turn over can result in a motion to dismiss.
+
+Earned Income Credit and Child Tax Credit
+
+The Earned Income Tax Credit (EITC) and Child Tax Credit (CTC) have special status in many courts. These credits are not a "refund" of over-withheld taxes -- they are government benefits for low-income working families.
+
+Arguments for Exemption
+
+Public assistance benefit: Under federal exemptions (11 U.S.C. Section 522(d)(10)(A)), public assistance benefits are exempt. Several courts have held that the EITC qualifies as a public assistance benefit.
+
+Earned wages: The EITC is based on earned income and can be characterized as a wage supplement, making it potentially exempt under wage exemptions.
+
+Policy considerations: Congress designed the EITC to encourage work and support low-income families. Taking it in bankruptcy defeats that purpose.
+
+Trend: Most courts that have addressed the issue protect EITC from bankruptcy trustees. However, the law is not uniform. If you rely on the EITC, discuss this with your attorney and be prepared to argue the exemption if the trustee objects.
+
+Strategies for Protecting Your Refund
+
+Adjust your withholding: File a new W-4 with your employer to reduce your withholding. This increases your take-home pay and reduces your refund. Less refund means less for the trustee to take. But be careful not to under-withhold and owe taxes.
+
+Time your filing: In Chapter 7, filing later in the year means a smaller pre-petition portion of the refund is estate property. Filing in December means almost the entire refund was earned pre-petition; filing in January means very little was.
+
+Use exemptions strategically: If you have unused wildcard or personal property exemptions, allocate them to your tax refund on Schedule C.
+
+Receive and spend the refund before filing: If you receive your refund before filing Chapter 7, you can spend it on necessary expenses (rent, utilities, food, car repairs). Spending it on luxury items or to pay favored creditors can create problems.
+
+Separate EITC from refund: If part of your refund is EITC and part is overwithholding, document the breakdown. The EITC portion may be exempt even if the overwithholding portion is not.
+
+Do not hide your refund. Failing to disclose a tax refund on your bankruptcy schedules is fraud. The trustee will find out -- they have access to your tax returns and can verify refund amounts with the IRS. Always disclose the refund and claim the appropriate exemption.
+
+What Your Plan Says
+
+In Chapter 13, your confirmed plan is a binding order. If the plan says you must turn over tax refunds, you must comply. If it is silent on refunds, check the trustee's standing orders and local rules.
+
+Key plan provisions to look for:
+
+Any clause requiring turnover of tax refunds
+
+Whether a specific dollar amount is excluded from turnover
+
+Whether the plan specifically addresses EITC or other credits
+
+Deadlines for providing copies of tax returns to the trustee
+
+If your plan is unclear, ask your attorney. If you are pro se, contact the trustee's office directly for guidance.
+
+Frequently Asked Questions
+
+Does the Chapter 13 trustee take my tax refund?
+
+It depends on your district, your trustee's requirements, and what your confirmed plan says. Many trustees require turnover of all or part of the refund. Some districts have standing orders with specific thresholds. Others do not require turnover at all. Always check your plan and your trustee's requirements before spending your refund.
+
+Can I protect my earned income credit in bankruptcy?
+
+The EITC has strong arguments for exemption. Under federal exemptions, it can be characterized as a public assistance benefit (exempt under 11 U.S.C. Section 522(d)(10)(A)). Many courts protect EITC from trustees. However, the law varies by jurisdiction. Document the EITC portion of your refund separately and be prepared to argue the exemption.
+
+How do I keep my tax refund in Chapter 7?
+
+Claim the refund as exempt on your Schedule C using available state or federal exemptions. You can also reduce future refunds by adjusting your W-4 withholding, time your filing strategically, or receive and spend the refund on necessary expenses before filing.
+
+Should I adjust my withholding before filing bankruptcy?
+
+Adjusting your withholding to reduce your refund is generally acceptable. The goal is to match your withholding to your actual tax liability so you do not have a large refund for the trustee to take. Do not reduce withholding so much that you owe taxes -- that creates a new problem.
+
+Related Resources
+
+Filing Tax Returns During Chapter 13 -- the annual filing requirement
+
+What Is Chapter 7? -- overview of Chapter 7 bankruptcy
+
+Chapter 13 Plans -- how repayment plans work
+
+IRS Payment Plan vs. Bankruptcy -- comparing your options
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org relieffromstay.org dischargeinjunction.org dischargeinjunction.com 523a.org 109g.org 727a8.org 727a8.com prosedebtors.org whatischapter7.com whatischapter7.org chapter13plan.org lienstripping.org nondischargeable.org bankruptcyfreshstart.org reaffirmationagreement.org dischargebar.org section1328.org bankruptcytaxes.org dismissedbankruptcy.org serialfiler.org codebtorstay.org bankruptcyhardship.org voluntarypetition.org ♥ Sponsor GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Last updated: March 2026
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## The Trust Fund Recovery Penalty (100% Penalty) and Bankruptcy
+Source: https://bankruptcytaxes.org/trust-fund-penalty.html
+
+Skip to main content
+
+bankruptcytaxes.org
+☰
+
+Home
+3-Year Rule
+240-Day Rule
+State Taxes
+Tax Liens
+Tax Refunds
+IRS vs Bankruptcy
+
+The Trust Fund Recovery Penalty
+
+26 U.S.C. Section 6672 -- the "100% penalty" for unpaid payroll taxes
+
+Network › Taxes and Bankruptcy › Trust Fund Recovery Penalty
+
+What Is the TFRP?
+
+The Trust Fund Recovery Penalty (TFRP) is one of the IRS's most powerful collection tools. Under 26 U.S.C. Section 6672, the IRS can assess the full amount of unpaid trust fund taxes -- the employee income tax withholding and employee share of FICA -- against any individual who was a "responsible person" and "willfully" failed to collect, truthfully account for, or pay over the taxes.
+
+It is commonly called the "100% penalty," but this is somewhat misleading. The TFRP is not an additional penalty on top of the original tax -- it is the same amount of tax, reassessed against a different person. The business owed the trust fund taxes. The TFRP allows the IRS to hold individual officers, owners, and managers personally liable for those same taxes.
+
+Not dischargeable: The TFRP is treated as a trust fund tax for bankruptcy purposes. It is a priority claim under 11 U.S.C. Section 507(a)(8)(C) and nondischargeable under Section 523(a)(1)(A). It survives bankruptcy in every chapter.
+
+Responsible Person Analysis
+
+The first element of the TFRP is that the individual must have been a "responsible person." This is a factual determination based on the person's role in the business. The IRS looks at several factors:
+
+Factors Courts Consider
+
+Authority to sign checks: If you had signature authority on the business's bank accounts, this is strong evidence of responsible person status.
+
+Authority to hire and fire: Control over personnel decisions suggests significant control over the business.
+
+Authority to determine which creditors get paid: This is the most important factor. If you could decide to pay the landlord or a supplier instead of the IRS, you are likely a responsible person.
+
+Control over financial affairs: Managing the books, authorizing expenditures, or approving payroll are strong indicators.
+
+Corporate officer or director status: Being an officer or director creates a presumption of responsibility, but it can be rebutted if you had no actual control over financial affairs.
+
+Ownership interest: Being a shareholder or partner is relevant but not dispositive. A passive investor with no management role may not be a responsible person.
+
+Job title is not the test: The IRS and courts look at actual authority, not just titles. A bookkeeper with check-signing authority can be a responsible person. An absentee owner with no involvement in daily finances may argue they are not. But the threshold is low -- if you had the authority to pay the taxes and chose not to, you are likely responsible.
+
+Who Is Typically Found Responsible?
+
+Sole proprietors (always)
+
+Corporate officers (CEO, CFO, treasurer -- almost always)
+
+Managing members of LLCs
+
+Partners with financial authority
+
+Bookkeepers or controllers with check-signing authority
+
+Shareholders who actively managed the business
+
+Who May Not Be Responsible?
+
+Passive investors with no management role
+
+Employees who processed payroll but had no authority over which creditors were paid
+
+Newly appointed officers who came in after the taxes went unpaid (but only for the periods before they had authority)
+
+The Willfulness Element
+
+The second element of the TFRP is "willfulness." This does not require evil intent or a deliberate scheme to defraud the government. The standard is much lower than that.
+
+Willfulness means: The responsible person knew or should have known that trust fund taxes were owed and voluntarily, consciously, and intentionally paid other creditors instead of remitting the taxes. That is it. You do not need to have intended to cheat the government. You just needed to know taxes were due and chose to use the money for something else.
+
+Common Willfulness Scenarios
+
+"We had to keep the lights on": Paying the electric bill, rent, or suppliers instead of payroll taxes is willful. The IRS does not care that the business needed to stay open -- the trust fund money was never yours to spend on operations.
+
+"Our payroll company handled it": Relying on a payroll company does not excuse responsibility if you knew or should have known the taxes were not being paid. If you got notices from the IRS and ignored them, that is willful.
+
+"I didn't know": Genuine ignorance can negate willfulness -- but only if it was reasonable. An officer who never looked at the financials may have a defense, but it is a difficult argument if the person had access to the information.
+
+The key question: Did you know the taxes were unpaid and make a conscious decision to pay other expenses instead? If yes, that is willful for TFRP purposes -- even if your motives were good (like trying to save the business and jobs).
+
+Multiple Responsible Persons
+
+The IRS can -- and frequently does -- assess the TFRP against multiple responsible persons for the same tax period. Each person is liable for the full amount of the trust fund taxes. This means:
+
+Both the CEO and the CFO can be assessed for the same unpaid taxes
+
+A business partner and a bookkeeper can both be liable
+
+Even a former officer who left the company can be assessed for periods when they were in charge
+
+However, the IRS can only collect the total tax once. If one responsible person pays $20,000 toward a $50,000 TFRP, the others' liability is reduced to $30,000. The IRS will typically pursue the person with the most assets or income first.
+
+Contribution Among Responsible Persons
+
+If you pay more than your "fair share" of the TFRP, you may have a right of contribution against other responsible persons. However, the federal courts are split on whether a federal right of contribution exists under Section 6672. Some circuits allow it; others do not. State law contribution claims may also be available.
+
+Bankruptcy Implications
+
+The TFRP is nondischargeable in bankruptcy. No chapter -- not 7, not 13, not 11 -- eliminates the obligation. However, bankruptcy can still provide significant benefits:
+
+Chapter 13 Advantages
+
+Structured payment: Pay the full TFRP over 3-5 years through the plan. Monthly payments instead of lump-sum demands.
+
+Automatic stay: The IRS cannot levy your bank account, garnish your wages, or seize assets while the plan is in effect.
+
+Penalty freeze: Additional penalties generally stop accruing once the bankruptcy is filed.
+
+Address other debts: Chapter 13 deals with all your debts, not just the TFRP. Credit cards, medical bills, and other taxes can all be addressed in one plan.
+
+Chapter 7 Limitations
+
+Chapter 7 does not help with the TFRP. The entire amount survives discharge. The only benefit of Chapter 7 is eliminating other debts (credit cards, medical bills, etc.), which frees up income to pay the TFRP after discharge.
+
+Chapter 11 for Businesses
+
+If the business itself is reorganizing under Chapter 11 (or Subchapter V for small businesses), trust fund taxes must be paid as priority claims. The plan must provide for payment in full, typically over the life of the plan. Section 1192 governs discharge in Subchapter V cases, but trust fund taxes remain nondischargeable.
+
+Defense Strategies
+
+If the IRS has assessed or proposed assessing the TFRP against you, you have options to challenge it:
+
+Challenge responsible person status: If you did not have actual authority over financial decisions, you may not qualify as a responsible person. Document your role carefully -- what decisions you made, what accounts you had access to, and who else had authority.
+
+Challenge willfulness: If you genuinely did not know about the unpaid taxes and had no reason to know, willfulness may not be established. This is a difficult but not impossible argument.
+
+Request abatement: In rare cases, the IRS may abate the TFRP if you can show reasonable cause for the failure to pay.
+
+Appeal: After receiving IRS Letter 1153 (proposed TFRP assessment), you have 60 days to appeal to the IRS Office of Appeals. This is your best opportunity to contest the assessment before it becomes final.
+
+Pay and sue for refund: After the TFRP is assessed, you can pay the trust fund tax for one employee for one quarter and file a refund claim. If denied, you can sue in federal district court or the Court of Federal Claims. This preserves your right to a judicial determination.
+
+Time is critical: The 60-day window to appeal a proposed TFRP assessment is firm. If you miss it, the assessment becomes final and your options narrow significantly. If you receive Letter 1153, respond immediately.
+
+Frequently Asked Questions
+
+What is the trust fund recovery penalty?
+
+The TFRP under 26 U.S.C. Section 6672 allows the IRS to assess the full amount of unpaid trust fund taxes (employee income tax withholding and employee FICA) against any individual who was a "responsible person" and willfully failed to pay the taxes. It is called the "100% penalty" because the assessment equals the full amount of the trust fund taxes. It creates personal liability even when the business entity has no assets.
+
+Can I discharge the 100% penalty in bankruptcy?
+
+No. The TFRP is nondischargeable in bankruptcy under every chapter. It is a priority claim under 11 U.S.C. Section 507(a)(8)(C) and nondischargeable under Section 523(a)(1)(A). Chapter 13 can structure repayment over 3-5 years, but the full amount must be paid.
+
+How does the IRS determine who is a responsible person?
+
+The IRS looks at who had the authority and duty to collect and pay over trust fund taxes. Key factors include check-signing authority, authority to hire and fire, control over which creditors get paid, and involvement in financial decisions. The analysis focuses on actual authority, not just job titles. Courts examine the totality of the circumstances.
+
+Can multiple people be liable for the same trust fund penalty?
+
+Yes. The IRS can assess the TFRP against every responsible person who willfully failed to pay. Each person is liable for the full amount. However, the IRS can only collect the total once -- payments by one responsible person reduce the liability of others. The IRS will typically pursue the person with the most collectible assets first.
+
+Related Resources
+
+Payroll Taxes and Bankruptcy -- overview of trust fund vs. non-trust-fund employment taxes
+
+Section 523(a) Exceptions to Discharge -- nondischargeable debts
+
+Nondischargeable Debts -- complete guide
+
+Chapter 13 Plans -- structured repayment for priority debts
+
+Check Your Bankruptcy Discharge Eligibility
+
+Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.
+
+Discharge Screener
+Research Platform
+
+Related Guides
+
+Credit Card Forgiveness Options
+
+Student Loans in Bankruptcy
+
+Brunner Test for Student Loans
+
+EIDL Loans in Bankruptcy
+
+Further Reading & Resources
+
+Authority sources for deeper research on taxes and bankruptcy:
+
+11 U.S.C. Section 523(a)(1)
+Cornell LII -- tax debt exception
+
+IRS Publication 908
+IRS bankruptcy tax guide
+
+IRS: Cancellation of Debt
+1099-C guidance
+
+IRS Taxpayer Advocate
+Free tax help
+
+CFPB: Taxes and Bankruptcy
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Tax Debt Research
+Google Scholar
+
+Related Guides
+
+1099-C Cancellation of Debt
+
+Free bankruptcy information guide
+
+1099cdebt.com →
+
+Credit Card Debt in Bankruptcy
+
+Discharge credit card debt in bankruptcy
+
+creditcarddebtbankruptcy.org →
+
+Medical Bills in Bankruptcy
+
+Medical debt is fully dischargeable
+
+medicalbillbankruptcy.com →
+
+Medical Debt and Bankruptcy
+
+Free bankruptcy information guide
+
+medicaldebtbankruptcy.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com 1328f.org automaticstay.org meanstest.org 341meeting.org relieffromstay.org dischargeinjunction.org dischargeinjunction.com 523a.org 109g.org 727a8.org 727a8.com prosedebtors.org whatischapter7.com whatischapter7.org chapter13plan.org lienstripping.org nondischargeable.org bankruptcyfreshstart.org reaffirmationagreement.org dischargebar.org section1328.org bankruptcytaxes.org dismissedbankruptcy.org serialfiler.org codebtorstay.org bankruptcyhardship.org voluntarypetition.org ♥ Sponsor GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Last updated: March 2026
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
