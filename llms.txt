@@ -5,16 +5,17 @@
 bankruptcytaxes.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- The 240-Day Rule -- IRS Assessment and Bankruptcy Tax Discharge: https://bankruptcytaxes.org/240-day-rule.html
+- The 240-Day Rule - IRS Assessment and Bankruptcy Tax Discharge: https://bankruptcytaxes.org/240-day-rule.html
 - The 3-Year Rule for Discharging Tax Debt in Bankruptcy: https://bankruptcytaxes.org/3-year-rule.html
 - Filing Tax Returns During Chapter 13 Bankruptcy: https://bankruptcytaxes.org/income-tax-return.html
 - Can Bankruptcy Eliminate Tax Debt? 5 Rules (2026 Guide): https://bankruptcytaxes.org/
-- IRS Payment Plan vs. Bankruptcy -- Which Is Better for Tax Debt?: https://bankruptcytaxes.org/irs-payment-plan.html
-- Payroll Taxes and Bankruptcy -- Trust Fund Taxes Are Never Dischargeable: https://bankruptcytaxes.org/payroll-taxes.html
+- IRS Payment Plan vs. Bankruptcy - Which Is Better for Tax Debt?: https://bankruptcytaxes.org/irs-payment-plan.html
+- Payroll Taxes and Bankruptcy - Trust Fund Taxes Are Never Dischargeable: https://bankruptcytaxes.org/payroll-taxes.html
 - Can State Taxes Be Discharged in Bankruptcy?: https://bankruptcytaxes.org/state-taxes.html
-- Tax Liens Survive Bankruptcy -- What You Need to Know: https://bankruptcytaxes.org/tax-liens.html
+- Tax Liens Survive Bankruptcy - What You Need to Know: https://bankruptcytaxes.org/tax-liens.html
 - Can the Bankruptcy Trustee Take My Tax Refund?: https://bankruptcytaxes.org/tax-refund.html
 - The Trust Fund Recovery Penalty (100% Penalty) and Bankruptcy: https://bankruptcytaxes.org/trust-fund-penalty.html
+- Privacy Policy: https://bankruptcytaxes.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
