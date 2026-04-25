@@ -17,18 +17,18 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>The Trust Fund Recovery Penalty (100% Penalty) and Bankruptcy</title>
-<meta content="Learn about the trust fund recovery penalty (100% penalty) and bankruptcy | bankruptcytaxes.org in our free 2026 guide." name="description"/>
-<meta content="trust fund recovery penalty 100% penalty bankruptcy, 26 USC 6672, responsible person payroll tax, TFRP bankruptcy nondischargeable" name="keywords"/>
-<link href="https://bankruptcytaxes.org/trust-fund-penalty.html" rel="canonical"/>
-<meta content="The Trust Fund Recovery Penalty (100% Penalty) and Bankruptcy" property="og:title"/>
-<meta content="Learn about the trust fund recovery penalty (100% penalty) and bankruptcy | bankruptcytaxes.org in our free 2026 guide." property="og:description"/>
+<title>Can State Taxes Be Discharged in Bankruptcy?</title>
+<meta content="Learn about can state taxes be discharged in bankruptcy? | bankruptcytaxes.org in our free 2026 guide. Clear explanations, real data, and pract..." name="description"/>
+<meta content="can state taxes be discharged in bankruptcy, state income tax bankruptcy, property tax bankruptcy, sales tax bankruptcy" name="keywords"/>
+<link href="https://bankruptcytaxes.org/state-taxes.html" rel="canonical"/>
+<meta content="Can State Taxes Be Discharged in Bankruptcy?" property="og:title"/>
+<meta content="Learn about can state taxes be discharged in bankruptcy? | bankruptcytaxes.org in our free 2026 guide. Clear explanations, real data, and pract..." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://bankruptcytaxes.org/trust-fund-penalty.html" property="og:url"/>
+<meta content="https://bankruptcytaxes.org/state-taxes.html" property="og:url"/>
 <meta content="bankruptcytaxes.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="The Trust Fund Recovery Penalty (100% Penalty) and Bankruptcy" name="twitter:title"/>
-<meta content="Learn about the trust fund recovery penalty (100% penalty) and bankruptcy | bankruptcytaxes.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Can State Taxes Be Discharged in Bankruptcy?" name="twitter:title"/>
+<meta content="Learn about can state taxes be discharged in bankruptcy? | bankruptcytaxes.org in our free 2026 guide. Clear explanations, real data, and pract..." name="twitter:description"/>
 <meta content="https://bankruptcytaxes.org/og-image.svg" property="og:image"/>
 <meta content="https://bankruptcytaxes.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -44,41 +44,41 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the trust fund recovery penalty?",
+      "name": "Are state income taxes treated the same as federal in bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Trust Fund Recovery Penalty (TFRP) under 26 U.S.C. Section 6672 allows the IRS to assess the full amount of unpaid trust fund taxes (employee income tax withholding and employee FICA) against any individual who was a 'responsible person' and willfully failed to collect or remit the taxes. It equals 100% of the unpaid trust fund taxes."
+        "text": "Yes. The same timing rules that apply to federal income taxes - the 3-year rule, 240-day rule, and 2-year filing rule - also apply to state income taxes. If a state income tax meets all the timing tests, it can be discharged in bankruptcy just like a federal tax."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I discharge the 100% penalty in bankruptcy?",
+      "name": "Can I discharge property taxes in bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. The Trust Fund Recovery Penalty is a trust fund tax and is nondischargeable in bankruptcy under any chapter. It is a priority claim under 11 U.S.C. Section 507(a)(8)(C) and nondischargeable under Section 523(a)(1)(A). In Chapter 13, you can structure repayment over 3-5 years, but the full amount must be paid."
+        "text": "Property taxes can be discharged if they became due more than 1 year before the bankruptcy filing, under 11 U.S.C. Section 507(a)(8)(B). Property taxes that became due within the last year are priority claims and cannot be discharged. However, property tax liens survive bankruptcy."
       }
     },
     {
       "@type": "Question",
-      "name": "How does the IRS determine who is a responsible person?",
+      "name": "What about state sales tax debt?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The IRS considers factors such as authority to sign checks, authority to hire and fire employees, control over which creditors get paid, involvement in the business's financial decisions, and whether the person had significant control over the business's financial affairs. Courts look at the totality of circumstances, not just job titles."
+        "text": "Sales taxes that a business collected from customers but did not remit to the state are trust fund taxes under 11 U.S.C. Section 507(a)(8)(C). Trust fund taxes are always priority claims and can never be discharged in bankruptcy, regardless of how old they are."
       }
     },
     {
       "@type": "Question",
-      "name": "Can multiple people be liable for the same trust fund penalty?",
+      "name": "Do state tax liens survive bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The IRS can and does assess the TFRP against multiple responsible persons for the same tax period. Each person is liable for the full amount. However, the IRS can only collect the total tax once - payments by one responsible person reduce the liability of the others."
+        "text": "Yes. Like federal tax liens, state tax liens survive a bankruptcy discharge. The personal liability for the underlying tax may be discharged, but the lien remains attached to property you owned at the time of filing. The state can still enforce the lien against that specific property."
       }
     }
   ]
 }
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Network","item":"https://1328f.com/"},{"@type":"ListItem","position":2,"name":"Taxes and Bankruptcy","item":"https://bankruptcytaxes.org/"},{"@type":"ListItem","position":3,"name":"Trust Fund Recovery Penalty","item":"https://bankruptcytaxes.org/trust-fund-penalty.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Network","item":"https://1328f.com/"},{"@type":"ListItem","position":2,"name":"Taxes and Bankruptcy","item":"https://bankruptcytaxes.org/"},{"@type":"ListItem","position":3,"name":"State Taxes","item":"https://bankruptcytaxes.org/state-taxes.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -86,8 +86,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "The Trust Fund Recovery Penalty",
-      "description": "Deep dive on the Trust Fund Recovery Penalty under 26 U.S.C. Section 6672. Responsible person analysis, willfulness, multiple liable parties, and bankruptcy imp",
+      "headline": "Can State Taxes Be Discharged in Bankruptcy?",
+      "description": "State income taxes, property taxes, and sales taxes in bankruptcy. How the same timing rules apply, and which state taxes can never be discharged.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -99,12 +99,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcytaxes.org/trust-fund-penalty.html"
+      "mainEntityOfPage": "https://bankruptcytaxes.org/state-taxes.html"
     },
     {
       "@type": "WebPage",
-      "name": "The Trust Fund Recovery Penalty",
-      "url": "https://bankruptcytaxes.org/trust-fund-penalty.html",
+      "name": "Can State Taxes Be Discharged in Bankruptcy?",
+      "url": "https://bankruptcytaxes.org/state-taxes.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -157,29 +157,8 @@
   .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
   @media (max-width: 600px) { header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; } nav { padding: 0.75rem 1rem; } .hamburger { display: block; } .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; } .nav-links.open { display: flex; } .cta-box .cta-links { flex-direction: column; gap: 0.75rem; } }
 </style>
-<link href="https://bankruptcytaxes.org/trust-fund-penalty.html" hreflang="en" rel="alternate"/>
-<link href="https://bankruptcytaxes.org/trust-fund-penalty-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://bankruptcytaxes.org/state-taxes.html" hreflang="en" rel="alternate"/>
+<link href="https://bankruptcytaxes.org/state-taxes-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -190,131 +169,102 @@
 <a href="/">Home</a>
 <a href="/3-year-rule.html">3-Year Rule</a>
 <a href="/240-day-rule.html">240-Day Rule</a>
-<a href="/state-taxes.html">State Taxes</a>
+<a class="active" href="/state-taxes.html">State Taxes</a>
 <a href="/tax-liens.html">Tax Liens</a>
 <a href="/tax-refund.html">Tax Refunds</a>
 <a href="/irs-payment-plan.html">IRS vs Bankruptcy</a>
 </div>
 </nav>
 <header>
-<h1>The <span class="accent">Trust Fund Recovery Penalty</span></h1>
-<p class="subtitle">26 U.S.C. Section 6672 - the "100% penalty" for unpaid payroll taxes</p>
+<h1>Can <span class="accent">State Taxes</span> Be Discharged in Bankruptcy?</h1>
+<p class="subtitle">State income taxes, property taxes, and sales taxes - different rules for different types</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › <a href="/">Taxes and Bankruptcy</a> › Trust Fund Recovery Penalty
+<a href="https://1328f.com/">Network</a> › <a href="/">Taxes and Bankruptcy</a> › State Taxes
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>What Is the TFRP?</h2>
-<p>The Trust Fund Recovery Penalty (TFRP) is one of the IRS's most powerful collection tools. Under 26 U.S.C. Section 6672, the IRS can assess the full amount of unpaid trust fund taxes - the employee income tax withholding and employee share of FICA - against any individual who was a "responsible person" and "willfully" failed to collect, truthfully account for, or pay over the taxes.</p>
-<p>It is commonly called the "100% penalty," but this is somewhat misleading. The TFRP is not an additional penalty on top of the original tax - it is the same amount of tax, reassessed against a different person. The business owed the trust fund taxes. The TFRP allows the IRS to hold individual officers, owners, and managers personally liable for those same taxes.</p>
-<div class="red-box">
-<p><strong>Not dischargeable:</strong> The TFRP is treated as a trust fund tax for bankruptcy purposes. It is a priority claim under 11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/507#a_8" rel="noopener" target="_blank">Section 507(a)(8)</a>(C) and <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(1)(A). It survives bankruptcy in every chapter.</p>
-</div>
+<h2>State Taxes and Bankruptcy - Overview</h2>
+<p>When most people think about taxes and bankruptcy, they think about the IRS. But state tax debts are just as common - and in many cases, the same federal bankruptcy rules that govern federal taxes also apply to state taxes. The Bankruptcy Code does not distinguish between federal and state taxing authorities for most purposes.</p>
+<p>However, different types of state taxes are treated differently. State income taxes follow the same timing rules as federal income taxes. Property taxes have their own rule. And sales taxes that a business collected but failed to remit are in a category by themselves - they can never be discharged.</p>
 </div>
 <div class="content-section">
-<h2>Responsible Person Analysis</h2>
-<p>The first element of the TFRP is that the individual must have been a "responsible person." This is a factual determination based on the person's role in the business. The IRS looks at several factors:</p>
-<h3>Factors Courts Consider</h3>
+<h2>State Income Taxes</h2>
+<p>State income taxes are treated identically to federal income taxes under the Bankruptcy Code. The same three timing tests apply:</p>
 <ul>
-<li><strong>Authority to sign checks:</strong> If you had signature authority on the business's bank accounts, this is strong evidence of responsible person status.</li>
-<li><strong>Authority to hire and fire:</strong> Control over personnel decisions suggests significant control over the business.</li>
-<li><strong>Authority to determine which creditors get paid:</strong> This is the most important factor. If you could decide to pay the landlord or a supplier instead of the IRS, you are likely a responsible person.</li>
-<li><strong>Control over financial affairs:</strong> Managing the books, authorizing expenditures, or approving payroll are strong indicators.</li>
-<li><strong>Corporate officer or director status:</strong> Being an officer or director creates a presumption of responsibility, but it can be rebutted if you had no actual control over financial affairs.</li>
-<li><strong>Ownership interest:</strong> Being a shareholder or partner is relevant but not dispositive. A passive investor with no management role may not be a responsible person.</li>
+<li><strong><a href="/3-year-rule.html">3-year rule</a></strong> (11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/507#a_8" rel="noopener" target="_blank">Section 507(a)(8)</a>(A)(i)): The state tax return must have been due (with extensions) more than 3 years before the bankruptcy filing.</li>
+<li><strong><a href="/240-day-rule.html">240-day rule</a></strong> (11 U.S.C. Section 507(a)(8)(A)(ii)): The state must have assessed the tax more than 240 days before the filing.</li>
+<li><strong>2-year rule</strong> (11 U.S.C. <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(1)(B)(ii)): The state tax return must have been filed more than 2 years before the bankruptcy petition.</li>
 </ul>
-<div class="warning-box">
-<p><strong>Job title is not the test:</strong> The IRS and courts look at actual authority, not just titles. A bookkeeper with check-signing authority can be a responsible person. An absentee owner with no involvement in daily finances may argue they are not. But the threshold is low - if you had the authority to pay the taxes and chose not to, you are likely responsible.</p>
-</div>
-<h3>Who Is Typically Found Responsible?</h3>
+<p>If all three tests are met and there was no fraud or willful evasion, the state income tax debt can be discharged.</p>
+<h3>State-Specific Complications</h3>
+<p>While the federal timing rules apply uniformly, the assessment process varies by state. Some states assess taxes immediately upon processing a return, while others have longer processing timelines. A few important differences:</p>
 <ul>
-<li>Sole proprietors (always)</li>
-<li>Corporate officers (CEO, CFO, treasurer - almost always)</li>
-<li>Managing members of LLCs</li>
-<li>Partners with financial authority</li>
-<li>Bookkeepers or controllers with check-signing authority</li>
-<li>Shareholders who actively managed the business</li>
-</ul>
-<h3>Who May Not Be Responsible?</h3>
-<ul>
-<li>Passive investors with no management role</li>
-<li>Employees who processed payroll but had no authority over which creditors were paid</li>
-<li>Newly appointed officers who came in after the taxes went unpaid (but only for the periods before they had authority)</li>
-</ul>
-</div>
-<div class="content-section">
-<h2>The Willfulness Element</h2>
-<p>The second element of the TFRP is "willfulness." This does not require evil intent or a deliberate scheme to defraud the government. The standard is much lower than that.</p>
-<p><strong>Willfulness means:</strong> The responsible person knew or should have known that trust fund taxes were owed and voluntarily, consciously, and intentionally paid other creditors instead of remitting the taxes. That is it. You do not need to have intended to cheat the government. You just needed to know taxes were due and chose to use the money for something else.</p>
-<h3>Common Willfulness Scenarios</h3>
-<ul>
-<li><strong>"We had to keep the lights on":</strong> Paying the electric bill, rent, or suppliers instead of payroll taxes is willful. The IRS does not care that the business needed to stay open - the trust fund money was never yours to spend on operations.</li>
-<li><strong>"Our payroll company handled it":</strong> Relying on a payroll company does not excuse responsibility if you knew or should have known the taxes were not being paid. If you got notices from the IRS and ignored them, that is willful.</li>
-<li><strong>"I didn't know":</strong> Genuine ignorance can negate willfulness - but only if it was reasonable. An officer who never looked at the financials may have a defense, but it is a difficult argument if the person had access to the information.</li>
+<li><strong>Assessment dates:</strong> Some states do not use the same terminology or process as the IRS. You may need to request a state tax transcript or account statement to determine the assessment date.</li>
+<li><strong>Extensions:</strong> State extension rules may differ from federal rules. Some states automatically grant an extension if you received a federal extension; others require a separate state extension request. The 3-year clock runs from the state's due date, including state-specific extensions.</li>
+<li><strong>Separate state filings:</strong> If you lived in multiple states, each state's taxes are evaluated separately. You might be able to <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> taxes owed to one state but not another.</li>
 </ul>
 <div class="green-box">
-<p><strong>The key question:</strong> Did you know the taxes were unpaid and make a conscious decision to pay other expenses instead? If yes, that is willful for TFRP purposes - even if your motives were good (like trying to save the business and jobs).</p>
+<p><strong>Practical tip:</strong> Contact your state's department of revenue (or equivalent agency) and request a complete account transcript showing assessment dates, payment history, and any adjustments. This is the state equivalent of the IRS Account Transcript.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>Multiple Responsible Persons</h2>
-<p>The IRS can - and frequently does - assess the TFRP against multiple responsible persons for the same tax period. Each person is liable for the full amount of the trust fund taxes. This means:</p>
+<h2>Property Taxes</h2>
+<p>Property taxes have their own priority rule under 11 U.S.C. Section 507(a)(8)(B). Property taxes or assessments on real property are priority claims if they became due within 1 year before the bankruptcy filing (or became due after the filing).</p>
+<p>This means:</p>
 <ul>
-<li>Both the CEO and the CFO can be assessed for the same unpaid taxes</li>
-<li>A business partner and a bookkeeper can both be liable</li>
-<li>Even a former officer who left the company can be assessed for periods when they were in charge</li>
-</ul>
-<p>However, the IRS can only collect the total tax once. If one responsible person pays $20,000 toward a $50,000 TFRP, the others' liability is reduced to $30,000. The IRS will typically pursue the person with the most assets or income first.</p>
-<h3>Contribution Among Responsible Persons</h3>
-<p>If you pay more than your "fair share" of the TFRP, you may have a right of contribution against other responsible persons. However, the federal courts are split on whether a federal right of contribution exists under Section 6672. Some circuits allow it; others do not. State law contribution claims may also be available.</p>
-</div>
-<div class="content-section">
-<h2>Bankruptcy Implications</h2>
-<p>The TFRP is <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> in bankruptcy. No chapter - not 7, not 13, not 11 - eliminates the obligation. However, bankruptcy can still provide significant benefits:</p>
-<h3>Chapter 13 Advantages</h3>
-<ul>
-<li><strong>Structured payment:</strong> Pay the full TFRP over 3-5 years through the plan. Monthly payments instead of lump-sum demands.</li>
-<li><strong><a href="https://automaticstay.org/" title="automatic stay">Automatic stay</a>:</strong> The IRS cannot levy your bank account, garnish your wages, or seize assets while the plan is in effect.</li>
-<li><strong>Penalty freeze:</strong> Additional penalties generally stop accruing once the bankruptcy is filed.</li>
-<li><strong>Address other debts:</strong> <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> deals with all your debts, not just the TFRP. Credit cards, medical bills, and other taxes can all be addressed in one plan.</li>
-</ul>
-<h3>Chapter 7 Limitations</h3>
-<p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> does not help with the TFRP. The entire amount survives <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. The only benefit of <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> is eliminating other debts (credit cards, medical bills, etc.), which frees up income to pay the TFRP after <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
-<h3>Chapter 11 for Businesses</h3>
-<p>If the business itself is reorganizing under Chapter 11 (or <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> for small businesses), trust fund taxes must be paid as priority claims. The plan must provide for payment in full, typically over the life of the plan. <a href="https://section1192.org">Section 1192</a> governs discharge in <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> cases, but trust fund taxes remain <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a>.</p>
-</div>
-<div class="content-section">
-<h2>Defense Strategies</h2>
-<p>If the IRS has assessed or proposed assessing the TFRP against you, you have options to challenge it:</p>
-<ul>
-<li><strong>Challenge responsible person status:</strong> If you did not have actual authority over financial decisions, you may not qualify as a responsible person. Document your role carefully - what decisions you made, what accounts you had access to, and who else had authority.</li>
-<li><strong>Challenge willfulness:</strong> If you genuinely did not know about the unpaid taxes and had no reason to know, willfulness may not be established. This is a difficult but not impossible argument.</li>
-<li><strong>Request abatement:</strong> In rare cases, the IRS may abate the TFRP if you can show reasonable cause for the failure to pay.</li>
-<li><strong>Appeal:</strong> After receiving IRS Letter 1153 (proposed TFRP assessment), you have 60 days to appeal to the IRS Office of Appeals. This is your best opportunity to contest the assessment before it becomes final.</li>
-<li><strong>Pay and sue for refund:</strong> After the TFRP is assessed, you can pay the trust fund tax for one employee for one quarter and file a refund claim. If denied, you can sue in federal district court or the Court of Federal Claims. This preserves your right to a judicial determination.</li>
+<li><strong>Property taxes due more than 1 year before filing:</strong> Not priority claims. Can potentially be discharged as general <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a>.</li>
+<li><strong>Property taxes due within 1 year before filing:</strong> Priority claims. Cannot be discharged in <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>; must be paid in full in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>.</li>
 </ul>
 <div class="warning-box">
-<p><strong>Time is critical:</strong> The 60-day window to appeal a proposed TFRP assessment is firm. If you miss it, the assessment becomes final and your options narrow significantly. If you receive Letter 1153, respond immediately.</p>
+<p><strong>Lien complication:</strong> Even when property tax debt is dischargeable, the tax lien attached to the property survives bankruptcy. The county or municipality can still foreclose on the property to collect the lien, even after your personal liability is discharged. See <a href="/tax-liens.html">Tax Liens</a> for more detail.</p>
 </div>
+<p>In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, delinquent property taxes must typically be addressed in the plan to prevent foreclosure. Many Chapter 13 plans cure property tax arrears over the life of the plan while the debtor continues to pay current taxes directly.</p>
+</div>
+<div class="content-section">
+<h2>Sales Taxes - The Trust Fund Problem</h2>
+<p>Sales taxes that a business collected from customers are "trust fund" taxes under 11 U.S.C. Section 507(a)(8)(C). These are always priority claims and <strong>can never be discharged</strong> in bankruptcy, regardless of how old they are.</p>
+<p>The logic is straightforward: when a business collects sales tax from a customer, the business is holding that money in trust for the state. The money was never the business's money to spend. Using it for other purposes is essentially a breach of trust.</p>
+<h3>Who Is Liable?</h3>
+<p>The business entity is primarily liable for unremitted sales taxes. But many states also have "responsible person" statutes that allow the state to assess the trust fund portion against individual officers, directors, or managers who had authority over the business's financial decisions - similar to the IRS Trust Fund Recovery Penalty for <a href="/payroll-taxes.html">payroll taxes</a>.</p>
+<div class="red-box">
+<p><strong>No escape:</strong> Trust fund sales taxes survive both <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and Chapter 13 as <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> priority claims. In Chapter 13, they must be paid in full through the plan. In Chapter 7, the full amount survives <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. There is no timing test that makes them dischargeable.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>State Tax Liens</h2>
+<p>State tax liens behave just like <a href="/tax-liens.html">federal tax liens</a> in bankruptcy. A properly filed state tax lien survives the bankruptcy discharge. Your personal liability for the underlying tax may be eliminated, but the lien remains attached to property you owned at the time of filing.</p>
+<p>This creates a practical problem: if you own a home and the state has filed a tax lien, discharging the personal liability does not remove the lien from your home. If you later sell the home, the lien must be satisfied from the sale proceeds.</p>
+<p>Chapter 13 provides more tools for dealing with state tax liens. In some cases, the lien can be valued and paid through the plan at the value of the property it attaches to, rather than the full amount of the tax debt. This is particularly useful when the property is worth less than the total liens against it.</p>
+</div>
+<div class="content-section">
+<h2>Practical Steps for State Tax Debt</h2>
+<ul>
+<li><strong>Request state tax transcripts:</strong> Get assessment dates, filing dates, and lien information from your state's tax authority.</li>
+<li><strong>Identify the type of tax:</strong> Income tax, property tax, and sales tax have different rules. Classify each debt correctly.</li>
+<li><strong>Check for trust fund exposure:</strong> If you operated a business, determine whether any of the state tax debt involves collected-but-unremitted sales taxes.</li>
+<li><strong>Apply the timing tests:</strong> Run the 3-year, 240-day, and 2-year calculations for each state income tax year, just as you would for federal taxes.</li>
+<li><strong>Check for liens:</strong> Search your county's records for any filed state tax liens. Liens survive discharge even when the underlying debt is eliminated.</li>
+<li><strong>Consider Chapter 13:</strong> If you have a mix of dischargeable and <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> state taxes, Chapter 13 can structure repayment of the priority taxes while the non-priority taxes are treated as general unsecured claims.</li>
+</ul>
 </div>
 <div class="content-section">
 <h2>Frequently Asked Questions</h2>
-<h3>What is the trust fund recovery penalty?</h3>
-<p>The TFRP under 26 U.S.C. Section 6672 allows the IRS to assess the full amount of unpaid trust fund taxes (employee income tax withholding and employee FICA) against any individual who was a "responsible person" and willfully failed to pay the taxes. It is called the "100% penalty" because the assessment equals the full amount of the trust fund taxes. It creates personal liability even when the business entity has no assets.</p>
-<h3>Can I discharge the 100% penalty in bankruptcy?</h3>
-<p>No. The TFRP is <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> in bankruptcy under every chapter. It is a priority claim under 11 U.S.C. Section 507(a)(8)(C) and <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(1)(A). <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> can structure repayment over 3-5 years, but the full amount must be paid.</p>
-<h3>How does the IRS determine who is a responsible person?</h3>
-<p>The IRS looks at who had the authority and duty to collect and pay over trust fund taxes. Key factors include check-signing authority, authority to hire and fire, control over which creditors get paid, and involvement in financial decisions. The analysis focuses on actual authority, not just job titles. Courts examine the totality of the circumstances.</p>
-<h3>Can multiple people be liable for the same trust fund penalty?</h3>
-<p>Yes. The IRS can assess the TFRP against every responsible person who willfully failed to pay. Each person is liable for the full amount. However, the IRS can only collect the total once - payments by one responsible person reduce the liability of others. The IRS will typically pursue the person with the most collectible assets first.</p>
+<h3>Are state income taxes treated the same as federal in bankruptcy?</h3>
+<p>Yes. The Bankruptcy Code's timing rules for tax discharge - the 3-year rule, 240-day rule, and 2-year filing rule - apply equally to state and federal income taxes. If a state income tax debt meets all the timing requirements and there was no fraud, it can be discharged just like a federal tax debt.</p>
+<h3>Can I discharge property taxes in bankruptcy?</h3>
+<p>Property taxes can be discharged if they became due more than 1 year before the bankruptcy filing, under 11 U.S.C. Section 507(a)(8)(B). However, any tax lien attached to the property survives the discharge. This means the taxing authority can still foreclose on the property even though your personal liability has been eliminated.</p>
+<h3>What about state sales tax debt?</h3>
+<p>Sales taxes that a business collected from customers but did not remit to the state are classified as "trust fund" taxes. Under 11 U.S.C. Section 507(a)(8)(C), these are always priority claims and can never be discharged in bankruptcy, regardless of their age. They must be paid in full.</p>
+<h3>Do state tax liens survive bankruptcy?</h3>
+<p>Yes. State tax liens survive bankruptcy just like federal tax liens. The personal liability for the tax may be discharged, but the lien remains attached to property you owned when you filed. Chapter 13 offers some tools for addressing tax liens through the <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a>, but Chapter 7 does not eliminate them.</p>
 </div>
 <div class="content-section">
 <h2>Related Resources</h2>
-<p><a href="/payroll-taxes.html">Payroll Taxes and Bankruptcy</a> - overview of trust fund vs. non-trust-fund employment taxes</p>
-<p><a href="https://523a.org">Section 523(a) Exceptions to Discharge</a> - <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> debts</p>
-<p><a href="https://nondischargeable.org">Nondischargeable Debts</a> - complete guide</p>
-<p><a href="https://chapter13plan.org">Chapter 13 Plans</a> - structured repayment for priority debts</p>
+<p><a href="/tax-liens.html">Tax Liens and Bankruptcy</a> - what happens when liens survive discharge</p>
+<p><a href="https://nondischargeable.org">Nondischargeable Debts</a> - complete guide to debts that survive bankruptcy</p>
+<p><a href="https://523a.org">Section 523(a) Exceptions to Discharge</a> - the full list of <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> debts</p>
+<p><a href="/payroll-taxes.html">Payroll Taxes and Bankruptcy</a> - trust fund taxes for employers</p>
 </div>
 <div class="cta-box">
 <h3>Check Your Bankruptcy Discharge Eligibility</h3>
@@ -395,7 +345,7 @@
 <div class="links">
 <a href="https://1328f.com?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a> <a href="https://1328f.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.org</a> <a href="https://automaticstay.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a> <a href="https://meanstest.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">meanstest.org</a> <a href="https://341meeting.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341meeting.org</a> <a href="https://relieffromstay.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">relieffromstay.org</a> <a href="https://dischargeinjunction.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargeinjunction.org</a> <a href="https://dischargeinjunction.com?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargeinjunction.com</a> <a href="https://523a.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">523a.org</a> <a href="https://109g.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">109g.org</a> <a href="https://727a8.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.org</a> <a href="https://727a8.com?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.com</a> <a href="https://prosedebtors.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">prosedebtors.org</a> <a href="https://whatischapter7.com?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">whatischapter7.com</a> <a href="https://whatischapter7.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">whatischapter7.org</a> <a href="https://chapter13plan.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">chapter13plan.org</a> <a href="https://lienstripping.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">lienstripping.org</a> <a href="https://nondischargeable.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">nondischargeable.org</a> <a href="https://bankruptcyfreshstart.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">bankruptcyfreshstart.org</a> <a href="https://reaffirmationagreement.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">reaffirmationagreement.org</a> <a href="https://dischargebar.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargebar.org</a> <a href="https://section1328.org">section1328.org</a> <a href="https://bankruptcytaxes.org">bankruptcytaxes.org</a> <a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a> <a href="https://serialfiler.org">serialfiler.org</a> <a href="https://codebtorstay.org">codebtorstay.org</a> <a href="https://bankruptcyhardship.org">bankruptcyhardship.org</a> <a href="https://voluntarypetition.org">voluntarypetition.org</a> <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a> <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

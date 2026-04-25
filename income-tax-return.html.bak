@@ -17,18 +17,18 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>The Trust Fund Recovery Penalty (100% Penalty) and Bankruptcy</title>
-<meta content="Learn about the trust fund recovery penalty (100% penalty) and bankruptcy | bankruptcytaxes.org in our free 2026 guide." name="description"/>
-<meta content="trust fund recovery penalty 100% penalty bankruptcy, 26 USC 6672, responsible person payroll tax, TFRP bankruptcy nondischargeable" name="keywords"/>
-<link href="https://bankruptcytaxes.org/trust-fund-penalty.html" rel="canonical"/>
-<meta content="The Trust Fund Recovery Penalty (100% Penalty) and Bankruptcy" property="og:title"/>
-<meta content="Learn about the trust fund recovery penalty (100% penalty) and bankruptcy | bankruptcytaxes.org in our free 2026 guide." property="og:description"/>
+<title>Filing Tax Returns During Chapter 13 Bankruptcy</title>
+<meta content="Chapter 13 debtors must file all tax returns during the plan. Learn the Section 1308 requirement, consequences of non-filing, and how tax refun..." name="description"/>
+<meta content="filing tax returns during chapter 13 bankruptcy, 1308 tax return requirement, chapter 13 tax filing, trustee tax returns" name="keywords"/>
+<link href="https://bankruptcytaxes.org/income-tax-return.html" rel="canonical"/>
+<meta content="Filing Tax Returns During Chapter 13 Bankruptcy" property="og:title"/>
+<meta content="Chapter 13 debtors must file all tax returns during the plan. Learn the Section 1308 requirement, consequences of non-filing, and how tax refun..." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://bankruptcytaxes.org/trust-fund-penalty.html" property="og:url"/>
+<meta content="https://bankruptcytaxes.org/income-tax-return.html" property="og:url"/>
 <meta content="bankruptcytaxes.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="The Trust Fund Recovery Penalty (100% Penalty) and Bankruptcy" name="twitter:title"/>
-<meta content="Learn about the trust fund recovery penalty (100% penalty) and bankruptcy | bankruptcytaxes.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Filing Tax Returns During Chapter 13 Bankruptcy" name="twitter:title"/>
+<meta content="Chapter 13 debtors must file all tax returns during the plan. Learn the Section 1308 requirement, consequences of non-filing, and how tax refun..." name="twitter:description"/>
 <meta content="https://bankruptcytaxes.org/og-image.svg" property="og:image"/>
 <meta content="https://bankruptcytaxes.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -44,41 +44,33 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is the trust fund recovery penalty?",
+      "name": "Do I have to file tax returns during Chapter 13?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Trust Fund Recovery Penalty (TFRP) under 26 U.S.C. Section 6672 allows the IRS to assess the full amount of unpaid trust fund taxes (employee income tax withholding and employee FICA) against any individual who was a 'responsible person' and willfully failed to collect or remit the taxes. It equals 100% of the unpaid trust fund taxes."
+        "text": "Yes. Under 11 U.S.C. Section 1308, you must file all required tax returns for the 4 tax years before filing. During the plan, you must continue filing all tax returns on time each year. Failure to file is grounds for dismissal of your case under Section 1307(c)."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I discharge the 100% penalty in bankruptcy?",
+      "name": "What happens if I don't file my taxes during Chapter 13?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. The Trust Fund Recovery Penalty is a trust fund tax and is nondischargeable in bankruptcy under any chapter. It is a priority claim under 11 U.S.C. Section 507(a)(8)(C) and nondischargeable under Section 523(a)(1)(A). In Chapter 13, you can structure repayment over 3-5 years, but the full amount must be paid."
+        "text": "If you fail to file tax returns during Chapter 13, the trustee, IRS, or any creditor can file a motion to dismiss your case under 11 U.S.C. Section 1307(c)(9). Dismissal means you lose the protection of the bankruptcy, any debts discharged so far come back, and creditors can resume collection."
       }
     },
     {
       "@type": "Question",
-      "name": "How does the IRS determine who is a responsible person?",
+      "name": "Does the trustee see my tax returns?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The IRS considers factors such as authority to sign checks, authority to hire and fire employees, control over which creditors get paid, involvement in the business's financial decisions, and whether the person had significant control over the business's financial affairs. Courts look at the totality of circumstances, not just job titles."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can multiple people be liable for the same trust fund penalty?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The IRS can and does assess the TFRP against multiple responsible persons for the same tax period. Each person is liable for the full amount. However, the IRS can only collect the total tax once - payments by one responsible person reduce the liability of the others."
+        "text": "Yes. Under 11 U.S.C. Section 521(f), the debtor must provide copies of tax returns (or transcripts) to the trustee each year during the Chapter 13 case. The trustee uses this information to monitor your income and ensure your plan payments are appropriate."
       }
     }
   ]
 }
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Network","item":"https://1328f.com/"},{"@type":"ListItem","position":2,"name":"Taxes and Bankruptcy","item":"https://bankruptcytaxes.org/"},{"@type":"ListItem","position":3,"name":"Trust Fund Recovery Penalty","item":"https://bankruptcytaxes.org/trust-fund-penalty.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Network","item":"https://1328f.com/"},{"@type":"ListItem","position":2,"name":"Taxes and Bankruptcy","item":"https://bankruptcytaxes.org/"},{"@type":"ListItem","position":3,"name":"Tax Returns During Chapter 13","item":"https://bankruptcytaxes.org/income-tax-return.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -86,8 +78,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "The Trust Fund Recovery Penalty",
-      "description": "Deep dive on the Trust Fund Recovery Penalty under 26 U.S.C. Section 6672. Responsible person analysis, willfulness, multiple liable parties, and bankruptcy imp",
+      "headline": "Filing Tax Returns During Chapter 13",
+      "description": "Chapter 13 debtors must file all tax returns during the plan. Learn the Section 1308 requirement, consequences of non-filing, and how tax refunds are handled.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -99,12 +91,68 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcytaxes.org/trust-fund-penalty.html"
+      "mainEntityOfPage": "https://bankruptcytaxes.org/income-tax-return.html"
+    },
+    {
+      "@type": "HowTo",
+      "name": "Filing Tax Returns During Chapter 13",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nFiling Tax Returns During Chapter 13 Bankruptcy "
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "11 U.S.C. Section 521(f): During the case, you must provide copies of tax returns (or transcripts) to the trustee each year."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "File them as soon as possible: Your attorney should make this a priority before the 341 meeting."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Request a continuance: If you need more time, the court may grant a brief continuance of the 341 meeting to allow you to file."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Substitute for Return (SFR): If the IRS prepared a return for you (SFR), that does not satisfy the Section 1308 requirement. You must file your own return."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "File your federal and state tax returns on time (by April 15, or October 15 with an extension)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Provide a copy to the trustee within the time required by local rules or the trustee's standing order (often within 7-14 days of filing)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Report any significant income changes that could affect your plan payments."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Income changes: Significant raises, new jobs, or loss of income"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Tax refund amounts: Large refunds may be required to be turned over (see Tax Refunds)"
+        }
+      ]
     },
     {
       "@type": "WebPage",
-      "name": "The Trust Fund Recovery Penalty",
-      "url": "https://bankruptcytaxes.org/trust-fund-penalty.html",
+      "name": "Filing Tax Returns During Chapter 13",
+      "url": "https://bankruptcytaxes.org/income-tax-return.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -157,29 +205,8 @@
   .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
   @media (max-width: 600px) { header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; } nav { padding: 0.75rem 1rem; } .hamburger { display: block; } .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; } .nav-links.open { display: flex; } .cta-box .cta-links { flex-direction: column; gap: 0.75rem; } }
 </style>
-<link href="https://bankruptcytaxes.org/trust-fund-penalty.html" hreflang="en" rel="alternate"/>
-<link href="https://bankruptcytaxes.org/trust-fund-penalty-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://bankruptcytaxes.org/income-tax-return.html" hreflang="en" rel="alternate"/>
+<link href="https://bankruptcytaxes.org/income-tax-return-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -197,124 +224,98 @@
 </div>
 </nav>
 <header>
-<h1>The <span class="accent">Trust Fund Recovery Penalty</span></h1>
-<p class="subtitle">26 U.S.C. Section 6672 - the "100% penalty" for unpaid payroll taxes</p>
+<h1>Filing <span class="accent">Tax Returns</span> During Chapter 13</h1>
+<p class="subtitle">The Section 1308 requirement and what happens if you fall behind</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › <a href="/">Taxes and Bankruptcy</a> › Trust Fund Recovery Penalty
+<a href="https://1328f.com/">Network</a> › <a href="/">Taxes and Bankruptcy</a> › Tax Returns During Chapter 13
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>What Is the TFRP?</h2>
-<p>The Trust Fund Recovery Penalty (TFRP) is one of the IRS's most powerful collection tools. Under 26 U.S.C. Section 6672, the IRS can assess the full amount of unpaid trust fund taxes - the employee income tax withholding and employee share of FICA - against any individual who was a "responsible person" and "willfully" failed to collect, truthfully account for, or pay over the taxes.</p>
-<p>It is commonly called the "100% penalty," but this is somewhat misleading. The TFRP is not an additional penalty on top of the original tax - it is the same amount of tax, reassessed against a different person. The business owed the trust fund taxes. The TFRP allows the IRS to hold individual officers, owners, and managers personally liable for those same taxes.</p>
+<h2>The Filing Requirement</h2>
+<p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> debtors have a strict obligation to file all tax returns - both before and during their bankruptcy case. This is not optional. Failure to file is one of the most common reasons <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases are dismissed.</p>
+<p>The requirement comes from two sections of the Bankruptcy Code:</p>
+<ul>
+<li><strong>11 U.S.C. Section 1308:</strong> Before confirmation, you must file all tax returns that were due for the 4 tax years ending on the date of filing. If these returns are not filed, the court cannot confirm your plan.</li>
+<li><strong>11 U.S.C. Section 521(f):</strong> During the case, you must provide copies of tax returns (or transcripts) to the trustee each year.</li>
+</ul>
 <div class="red-box">
-<p><strong>Not dischargeable:</strong> The TFRP is treated as a trust fund tax for bankruptcy purposes. It is a priority claim under 11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/507#a_8" rel="noopener" target="_blank">Section 507(a)(8)</a>(C) and <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(1)(A). It survives bankruptcy in every chapter.</p>
+<p><strong>Consequence of non-filing:</strong> If you fail to file required tax returns, the trustee or any creditor can move to dismiss your case under 11 U.S.C. Section 1307(c)(9). <a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a> ends your bankruptcy protection, reverses any <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> progress, and allows creditors to resume collection immediately.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>Responsible Person Analysis</h2>
-<p>The first element of the TFRP is that the individual must have been a "responsible person." This is a factual determination based on the person's role in the business. The IRS looks at several factors:</p>
-<h3>Factors Courts Consider</h3>
+<h2>Before You File: The 4-Year Look-Back</h2>
+<p>Section 1308 requires that all tax returns due for the 4 tax years before filing must be filed before your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> can be confirmed. If you have unfiled returns, you typically have until the date of the <a href="https://www.law.cornell.edu/uscode/text/11/341" rel="noopener" target="_blank">Section 341</a> <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a> (about 30-45 days after filing) to get them filed.</p>
+<p>Example: If you file Chapter 13 in March 2026, you must have filed your tax returns for 2022, 2023, 2024, and 2025 (if the 2025 return is due before your <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>). If any of these are missing, you must file them promptly.</p>
+<h3>What If Returns Are Missing?</h3>
 <ul>
-<li><strong>Authority to sign checks:</strong> If you had signature authority on the business's bank accounts, this is strong evidence of responsible person status.</li>
-<li><strong>Authority to hire and fire:</strong> Control over personnel decisions suggests significant control over the business.</li>
-<li><strong>Authority to determine which creditors get paid:</strong> This is the most important factor. If you could decide to pay the landlord or a supplier instead of the IRS, you are likely a responsible person.</li>
-<li><strong>Control over financial affairs:</strong> Managing the books, authorizing expenditures, or approving payroll are strong indicators.</li>
-<li><strong>Corporate officer or director status:</strong> Being an officer or director creates a presumption of responsibility, but it can be rebutted if you had no actual control over financial affairs.</li>
-<li><strong>Ownership interest:</strong> Being a shareholder or partner is relevant but not dispositive. A passive investor with no management role may not be a responsible person.</li>
+<li><strong>File them as soon as possible:</strong> Your attorney should make this a priority before the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>.</li>
+<li><strong>Request a continuance:</strong> If you need more time, the court may grant a brief continuance of the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> to allow you to file.</li>
+<li><strong>Substitute for Return (SFR):</strong> If the IRS prepared a return for you (SFR), that does not satisfy the Section 1308 requirement. You must file your own return.</li>
 </ul>
 <div class="warning-box">
-<p><strong>Job title is not the test:</strong> The IRS and courts look at actual authority, not just titles. A bookkeeper with check-signing authority can be a responsible person. An absentee owner with no involvement in daily finances may argue they are not. But the threshold is low - if you had the authority to pay the taxes and chose not to, you are likely responsible.</p>
+<p><strong>The SFR problem:</strong> An IRS Substitute for Return is not the same as filing your own return. For Section 1308 purposes, you must file an actual return. If the IRS already assessed taxes based on an SFR, you should still file your own return - it may show a lower tax liability.</p>
 </div>
-<h3>Who Is Typically Found Responsible?</h3>
+</div>
+<div class="content-section">
+<h2>During the Plan: Annual Filing Obligations</h2>
+<p>Every year during your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> (typically 3-5 years), you must:</p>
+<ol>
+<li><strong>File your federal and state tax returns on time</strong> (by April 15, or October 15 with an extension).</li>
+<li><strong>Provide a copy to the trustee</strong> within the time required by local rules or the trustee's standing order (often within 7-14 days of filing).</li>
+<li><strong>Report any significant income changes</strong> that could affect your plan payments.</li>
+</ol>
+<p>The trustee reviews your returns to monitor your income. If your income has increased significantly, the trustee may request a plan modification to increase your payments. Conversely, if your income has decreased, you may be able to modify the plan to reduce payments.</p>
+<h3>What the Trustee Looks For</h3>
 <ul>
-<li>Sole proprietors (always)</li>
-<li>Corporate officers (CEO, CFO, treasurer - almost always)</li>
-<li>Managing members of LLCs</li>
-<li>Partners with financial authority</li>
-<li>Bookkeepers or controllers with check-signing authority</li>
-<li>Shareholders who actively managed the business</li>
-</ul>
-<h3>Who May Not Be Responsible?</h3>
-<ul>
-<li>Passive investors with no management role</li>
-<li>Employees who processed payroll but had no authority over which creditors were paid</li>
-<li>Newly appointed officers who came in after the taxes went unpaid (but only for the periods before they had authority)</li>
+<li><strong>Income changes:</strong> Significant raises, new jobs, or loss of income</li>
+<li><strong>Tax refund amounts:</strong> Large refunds may be required to be turned over (see <a href="/tax-refund.html">Tax Refunds</a>)</li>
+<li><strong>New tax debts:</strong> If you owe taxes for years during the plan, those become post-petition debts that must be addressed</li>
+<li><strong>Consistency:</strong> Your reported income on the return should match what you disclosed in your bankruptcy schedules and plan</li>
 </ul>
 </div>
 <div class="content-section">
-<h2>The Willfulness Element</h2>
-<p>The second element of the TFRP is "willfulness." This does not require evil intent or a deliberate scheme to defraud the government. The standard is much lower than that.</p>
-<p><strong>Willfulness means:</strong> The responsible person knew or should have known that trust fund taxes were owed and voluntarily, consciously, and intentionally paid other creditors instead of remitting the taxes. That is it. You do not need to have intended to cheat the government. You just needed to know taxes were due and chose to use the money for something else.</p>
-<h3>Common Willfulness Scenarios</h3>
-<ul>
-<li><strong>"We had to keep the lights on":</strong> Paying the electric bill, rent, or suppliers instead of payroll taxes is willful. The IRS does not care that the business needed to stay open - the trust fund money was never yours to spend on operations.</li>
-<li><strong>"Our payroll company handled it":</strong> Relying on a payroll company does not excuse responsibility if you knew or should have known the taxes were not being paid. If you got notices from the IRS and ignored them, that is willful.</li>
-<li><strong>"I didn't know":</strong> Genuine ignorance can negate willfulness - but only if it was reasonable. An officer who never looked at the financials may have a defense, but it is a difficult argument if the person had access to the information.</li>
-</ul>
+<h2>Tax Refunds During Chapter 13</h2>
+<p>Whether you can keep your tax refund during Chapter 13 depends heavily on your district and your plan. For detailed information, see our <a href="/tax-refund.html">Tax Refunds in Bankruptcy</a> page.</p>
+<p>In many districts, the trustee requires debtors to turn over all or a portion of their tax refunds to be distributed to creditors. Some districts have standing orders that set a specific threshold (for example, you keep the first $2,000 and turn over the rest). Other districts let you keep your refund entirely.</p>
 <div class="green-box">
-<p><strong>The key question:</strong> Did you know the taxes were unpaid and make a conscious decision to pay other expenses instead? If yes, that is willful for TFRP purposes - even if your motives were good (like trying to save the business and jobs).</p>
+<p><strong>Withholding strategy:</strong> Some people adjust their W-4 to reduce their tax refund and increase their take-home pay. This is generally permissible, but be careful - you still need to have enough withheld to cover your tax liability. Owing taxes at the end of the year creates a new debt that can complicate your Chapter 13 case.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>Multiple Responsible Persons</h2>
-<p>The IRS can - and frequently does - assess the TFRP against multiple responsible persons for the same tax period. Each person is liable for the full amount of the trust fund taxes. This means:</p>
+<h2>New Tax Debts During Chapter 13</h2>
+<p>If you incur new tax debt during your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> (for example, you owe taxes for a year during the plan), this creates a problem. Post-petition tax debts are not covered by your plan and must be addressed separately.</p>
 <ul>
-<li>Both the CEO and the CFO can be assessed for the same unpaid taxes</li>
-<li>A business partner and a bookkeeper can both be liable</li>
-<li>Even a former officer who left the company can be assessed for periods when they were in charge</li>
+<li><strong>Staying current is critical:</strong> Your plan may require you to stay current on all post-petition tax obligations. Failure to do so can be grounds for <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>.</li>
+<li><strong>Plan modification:</strong> You may need to modify your plan to account for new tax obligations.</li>
+<li><strong>Adjust withholding:</strong> If you are consistently owing taxes, increase your withholding or make estimated tax payments to prevent accumulating new debt.</li>
 </ul>
-<p>However, the IRS can only collect the total tax once. If one responsible person pays $20,000 toward a $50,000 TFRP, the others' liability is reduced to $30,000. The IRS will typically pursue the person with the most assets or income first.</p>
-<h3>Contribution Among Responsible Persons</h3>
-<p>If you pay more than your "fair share" of the TFRP, you may have a right of contribution against other responsible persons. However, the federal courts are split on whether a federal right of contribution exists under Section 6672. Some circuits allow it; others do not. State law contribution claims may also be available.</p>
 </div>
 <div class="content-section">
-<h2>Bankruptcy Implications</h2>
-<p>The TFRP is <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> in bankruptcy. No chapter - not 7, not 13, not 11 - eliminates the obligation. However, bankruptcy can still provide significant benefits:</p>
-<h3>Chapter 13 Advantages</h3>
+<h2>Practical Tips</h2>
 <ul>
-<li><strong>Structured payment:</strong> Pay the full TFRP over 3-5 years through the plan. Monthly payments instead of lump-sum demands.</li>
-<li><strong><a href="https://automaticstay.org/" title="automatic stay">Automatic stay</a>:</strong> The IRS cannot levy your bank account, garnish your wages, or seize assets while the plan is in effect.</li>
-<li><strong>Penalty freeze:</strong> Additional penalties generally stop accruing once the bankruptcy is filed.</li>
-<li><strong>Address other debts:</strong> <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> deals with all your debts, not just the TFRP. Credit cards, medical bills, and other taxes can all be addressed in one plan.</li>
+<li><strong>File electronically:</strong> E-filing creates a clear record of when you filed, which is useful if the trustee questions timeliness.</li>
+<li><strong>Keep copies of everything:</strong> Save copies of all filed returns, e-filing confirmations, and any correspondence with the IRS or state tax authority.</li>
+<li><strong>Communicate with your trustee:</strong> If you are going to be late filing, contact the trustee proactively. A brief delay with communication is far better than silence.</li>
+<li><strong>Set up estimated payments:</strong> If you are self-employed or have income not subject to withholding, make quarterly estimated tax payments to avoid year-end tax bills.</li>
+<li><strong>Review your plan:</strong> Read your confirmed plan carefully to understand what it says about tax refunds, post-petition taxes, and income changes.</li>
 </ul>
-<h3>Chapter 7 Limitations</h3>
-<p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> does not help with the TFRP. The entire amount survives <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. The only benefit of <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> is eliminating other debts (credit cards, medical bills, etc.), which frees up income to pay the TFRP after <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
-<h3>Chapter 11 for Businesses</h3>
-<p>If the business itself is reorganizing under Chapter 11 (or <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> for small businesses), trust fund taxes must be paid as priority claims. The plan must provide for payment in full, typically over the life of the plan. <a href="https://section1192.org">Section 1192</a> governs discharge in <a href="https://section1191.org/" title="Subchapter V">Subchapter V</a> cases, but trust fund taxes remain <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a>.</p>
-</div>
-<div class="content-section">
-<h2>Defense Strategies</h2>
-<p>If the IRS has assessed or proposed assessing the TFRP against you, you have options to challenge it:</p>
-<ul>
-<li><strong>Challenge responsible person status:</strong> If you did not have actual authority over financial decisions, you may not qualify as a responsible person. Document your role carefully - what decisions you made, what accounts you had access to, and who else had authority.</li>
-<li><strong>Challenge willfulness:</strong> If you genuinely did not know about the unpaid taxes and had no reason to know, willfulness may not be established. This is a difficult but not impossible argument.</li>
-<li><strong>Request abatement:</strong> In rare cases, the IRS may abate the TFRP if you can show reasonable cause for the failure to pay.</li>
-<li><strong>Appeal:</strong> After receiving IRS Letter 1153 (proposed TFRP assessment), you have 60 days to appeal to the IRS Office of Appeals. This is your best opportunity to contest the assessment before it becomes final.</li>
-<li><strong>Pay and sue for refund:</strong> After the TFRP is assessed, you can pay the trust fund tax for one employee for one quarter and file a refund claim. If denied, you can sue in federal district court or the Court of Federal Claims. This preserves your right to a judicial determination.</li>
-</ul>
-<div class="warning-box">
-<p><strong>Time is critical:</strong> The 60-day window to appeal a proposed TFRP assessment is firm. If you miss it, the assessment becomes final and your options narrow significantly. If you receive Letter 1153, respond immediately.</p>
-</div>
 </div>
 <div class="content-section">
 <h2>Frequently Asked Questions</h2>
-<h3>What is the trust fund recovery penalty?</h3>
-<p>The TFRP under 26 U.S.C. Section 6672 allows the IRS to assess the full amount of unpaid trust fund taxes (employee income tax withholding and employee FICA) against any individual who was a "responsible person" and willfully failed to pay the taxes. It is called the "100% penalty" because the assessment equals the full amount of the trust fund taxes. It creates personal liability even when the business entity has no assets.</p>
-<h3>Can I discharge the 100% penalty in bankruptcy?</h3>
-<p>No. The TFRP is <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> in bankruptcy under every chapter. It is a priority claim under 11 U.S.C. Section 507(a)(8)(C) and <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> under <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(1)(A). <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> can structure repayment over 3-5 years, but the full amount must be paid.</p>
-<h3>How does the IRS determine who is a responsible person?</h3>
-<p>The IRS looks at who had the authority and duty to collect and pay over trust fund taxes. Key factors include check-signing authority, authority to hire and fire, control over which creditors get paid, and involvement in financial decisions. The analysis focuses on actual authority, not just job titles. Courts examine the totality of the circumstances.</p>
-<h3>Can multiple people be liable for the same trust fund penalty?</h3>
-<p>Yes. The IRS can assess the TFRP against every responsible person who willfully failed to pay. Each person is liable for the full amount. However, the IRS can only collect the total once - payments by one responsible person reduce the liability of others. The IRS will typically pursue the person with the most collectible assets first.</p>
+<h3>Do I have to file tax returns during Chapter 13?</h3>
+<p>Yes. Under 11 U.S.C. Section 1308, you must file all returns for the 4 years before filing, and you must continue filing all returns on time every year during your plan. Failure to file is grounds for dismissal under Section 1307(c)(9).</p>
+<h3>What happens if I don't file my taxes during Chapter 13?</h3>
+<p>The trustee, IRS, or any creditor can move to dismiss your case. Dismissal ends your bankruptcy protection, reverses your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> progress, and lets creditors resume collection. Some courts will give you a brief opportunity to catch up, but many will dismiss the case without much delay.</p>
+<h3>Does the trustee see my tax returns?</h3>
+<p>Yes. Under 11 U.S.C. Section 521(f), you must provide copies of your tax returns or transcripts to the trustee annually. The trustee uses this information to monitor your income and ensure your plan payments are appropriate. Significant income increases may lead to a motion to increase your plan payments.</p>
 </div>
 <div class="content-section">
 <h2>Related Resources</h2>
-<p><a href="/payroll-taxes.html">Payroll Taxes and Bankruptcy</a> - overview of trust fund vs. non-trust-fund employment taxes</p>
-<p><a href="https://523a.org">Section 523(a) Exceptions to Discharge</a> - <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> debts</p>
-<p><a href="https://nondischargeable.org">Nondischargeable Debts</a> - complete guide</p>
-<p><a href="https://chapter13plan.org">Chapter 13 Plans</a> - structured repayment for priority debts</p>
+<p><a href="/tax-refund.html">Tax Refunds in Bankruptcy</a> - can the trustee take your refund?</p>
+<p><a href="https://chapter13plan.org">Chapter 13 Plans</a> - how repayment plans work</p>
+<p><a href="https://dismissedbankruptcy.org">Dismissed Bankruptcy</a> - what happens when your case is dismissed</p>
+<p><a href="https://section1328.org">Section 1328 Discharge</a> - completing your Chapter 13 and getting a discharge</p>
 </div>
 <div class="cta-box">
 <h3>Check Your Bankruptcy Discharge Eligibility</h3>
@@ -383,8 +384,8 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=bankruptcytaxes.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=bankruptcytaxes.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=bankruptcytaxes.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=bankruptcytaxes.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -395,7 +396,7 @@
 <div class="links">
 <a href="https://1328f.com?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a> <a href="https://1328f.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.org</a> <a href="https://automaticstay.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a> <a href="https://meanstest.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">meanstest.org</a> <a href="https://341meeting.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341meeting.org</a> <a href="https://relieffromstay.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">relieffromstay.org</a> <a href="https://dischargeinjunction.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargeinjunction.org</a> <a href="https://dischargeinjunction.com?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargeinjunction.com</a> <a href="https://523a.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">523a.org</a> <a href="https://109g.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">109g.org</a> <a href="https://727a8.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.org</a> <a href="https://727a8.com?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.com</a> <a href="https://prosedebtors.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">prosedebtors.org</a> <a href="https://whatischapter7.com?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">whatischapter7.com</a> <a href="https://whatischapter7.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">whatischapter7.org</a> <a href="https://chapter13plan.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">chapter13plan.org</a> <a href="https://lienstripping.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">lienstripping.org</a> <a href="https://nondischargeable.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">nondischargeable.org</a> <a href="https://bankruptcyfreshstart.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">bankruptcyfreshstart.org</a> <a href="https://reaffirmationagreement.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">reaffirmationagreement.org</a> <a href="https://dischargebar.org?utm_source=bankruptcytaxes.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargebar.org</a> <a href="https://section1328.org">section1328.org</a> <a href="https://bankruptcytaxes.org">bankruptcytaxes.org</a> <a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a> <a href="https://serialfiler.org">serialfiler.org</a> <a href="https://codebtorstay.org">codebtorstay.org</a> <a href="https://bankruptcyhardship.org">bankruptcyhardship.org</a> <a href="https://voluntarypetition.org">voluntarypetition.org</a> <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a> <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

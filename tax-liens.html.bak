@@ -16,20 +16,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Can the Bankruptcy Trustee Take My Tax Refund?</title>
-<meta name="description" content="Learn about can the bankruptcy trustee take my tax refund? | bankruptcytaxes.org in our free 2026 guide.">
-<meta name="keywords" content="can trustee take my tax refund chapter 13, tax refund chapter 7 bankruptcy, earned income credit bankruptcy exempt, protect tax refund bankruptcy">
-<link rel="canonical" href="https://bankruptcytaxes.org/tax-refund.html">
+<title>Tax Liens Survive Bankruptcy - What You Need to Know</title>
+<meta name="description" content="Learn about tax liens survive bankruptcy - what you need to know | bankruptcytaxes.org in our free 2026 guide.">
+<meta name="keywords" content="tax lien survives bankruptcy discharge, federal tax lien bankruptcy, tax lien chapter 7, tax lien chapter 13">
+<link rel="canonical" href="https://bankruptcytaxes.org/tax-liens.html">
 
-<meta property="og:title" content="Can the Bankruptcy Trustee Take My Tax Refund?">
-<meta property="og:description" content="Learn about can the bankruptcy trustee take my tax refund? | bankruptcytaxes.org in our free 2026 guide.">
+<meta property="og:title" content="Tax Liens Survive Bankruptcy - What You Need to Know">
+<meta property="og:description" content="Learn about tax liens survive bankruptcy - what you need to know | bankruptcytaxes.org in our free 2026 guide.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://bankruptcytaxes.org/tax-refund.html">
+<meta property="og:url" content="https://bankruptcytaxes.org/tax-liens.html">
 <meta property="og:site_name" content="bankruptcytaxes.org">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Can the Bankruptcy Trustee Take My Tax Refund?">
-<meta name="twitter:description" content="Learn about can the bankruptcy trustee take my tax refund? | bankruptcytaxes.org in our free 2026 guide.">
+<meta name="twitter:title" content="Tax Liens Survive Bankruptcy - What You Need to Know">
+<meta name="twitter:description" content="Learn about tax liens survive bankruptcy - what you need to know | bankruptcytaxes.org in our free 2026 guide.">
 <meta property="og:image" content="https://bankruptcytaxes.org/og-image.svg">
 <meta name="twitter:image" content="https://bankruptcytaxes.org/og-image.svg">
 
@@ -47,34 +47,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Does the Chapter 13 trustee take my tax refund?",
+      "name": "Does a tax lien go away in bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It depends on your district and your plan. Many Chapter 13 trustees require debtors to turn over all or part of their tax refund each year. Some districts have standing orders with specific thresholds. Others allow debtors to keep their refunds. Check your confirmed plan and your trustee's requirements."
+        "text": "No. A properly filed tax lien survives bankruptcy. Bankruptcy can discharge your personal liability for the tax, meaning you no longer owe the money. But the lien remains attached to property you owned at the time of filing. The IRS or state can still enforce the lien against that specific property."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I protect my earned income credit in bankruptcy?",
+      "name": "What happens to a tax lien after Chapter 7 discharge?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Earned Income Tax Credit (EITC) has strong arguments for exemption in bankruptcy. Under federal exemptions, the EITC can be characterized as a public assistance benefit (exempt under 11 U.S.C. Section 522(d)(10)(A)) or as earned wages (partially exempt as a wildcard). Many courts treat EITC as exempt, but the law varies by circuit and state."
+        "text": "After a Chapter 7 discharge, the personal obligation to pay the tax is eliminated, but the lien remains on any property you owned when you filed. If you sell the property, the lien must be paid from the proceeds. The lien cannot attach to property you acquire after the bankruptcy filing."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I keep my tax refund in Chapter 7?",
+      "name": "Can Chapter 13 remove a tax lien?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In Chapter 7, tax refunds are property of the estate. To keep your refund, you must claim it as exempt. Use your state's exemptions or federal exemptions (if your state allows federal) to protect the refund. If the refund exceeds available exemptions, the trustee can take the non-exempt portion. Timing your filing to minimize the refund can also help."
+        "text": "Chapter 13 provides tools to deal with tax liens that Chapter 7 does not. In some cases, the secured portion of the tax lien can be valued based on the equity in the property, and the remaining unsecured portion can be treated as a general unsecured claim. After plan completion and discharge, the lien may be released."
       }
     },
     {
       "@type": "Question",
-      "name": "Should I adjust my withholding before filing bankruptcy?",
+      "name": "Should I file bankruptcy before or after a tax lien is filed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Adjusting your withholding to reduce your refund and increase take-home pay is generally permissible, but do it carefully. Do not reduce withholding so much that you owe taxes - that creates a new debt. The goal is to bring your withholding in line with your actual tax liability so you neither owe nor receive a large refund."
+        "text": "Generally, filing before a tax lien is recorded is better because there is no lien to survive the discharge. Once a tax lien is filed, it attaches to your property and survives bankruptcy. However, even after a lien is filed, Chapter 13 may provide tools to address it through the repayment plan."
       }
     }
   ]
@@ -82,7 +82,7 @@
 </script>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Network","item":"https://1328f.com/"},{"@type":"ListItem","position":2,"name":"Taxes and Bankruptcy","item":"https://bankruptcytaxes.org/"},{"@type":"ListItem","position":3,"name":"Tax Refunds","item":"https://bankruptcytaxes.org/tax-refund.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Network","item":"https://1328f.com/"},{"@type":"ListItem","position":2,"name":"Taxes and Bankruptcy","item":"https://bankruptcytaxes.org/"},{"@type":"ListItem","position":3,"name":"Tax Liens","item":"https://bankruptcytaxes.org/tax-liens.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -90,8 +90,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Can the Trustee Take My Tax Refund?",
-      "description": "How tax refunds are handled in Chapter 7 and Chapter 13 bankruptcy. Exemptions for earned income credit, strategies for protecting your refund, and district-spe",
+      "headline": "Tax Liens Survive Bankruptcy",
+      "description": "Tax liens survive bankruptcy discharge. Learn the difference between personal liability and lien enforcement, and strategies for dealing with tax liens in Chapt",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -103,12 +103,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcytaxes.org/tax-refund.html"
+      "mainEntityOfPage": "https://bankruptcytaxes.org/tax-liens.html"
     },
     {
       "@type": "WebPage",
-      "name": "Can the Trustee Take My Tax Refund?",
-      "url": "https://bankruptcytaxes.org/tax-refund.html",
+      "name": "Tax Liens Survive Bankruptcy",
+      "url": "https://bankruptcytaxes.org/tax-liens.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -163,29 +163,8 @@
   @media (max-width: 600px) { header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; } nav { padding: 0.75rem 1rem; } .hamburger { display: block; } .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; } .nav-links.open { display: flex; } .cta-box .cta-links { flex-direction: column; gap: 0.75rem; } }
 </style>
 
-<link rel="alternate" hreflang="en" href="https://bankruptcytaxes.org/tax-refund.html">
-<link rel="alternate" hreflang="es" href="https://bankruptcytaxes.org/tax-refund-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://bankruptcytaxes.org/tax-liens.html">
+<link rel="alternate" hreflang="es" href="https://bankruptcytaxes.org/tax-liens-es.html">
 </head>
 <body>
 
@@ -199,132 +178,122 @@
     <a href="/3-year-rule.html">3-Year Rule</a>
     <a href="/240-day-rule.html">240-Day Rule</a>
     <a href="/state-taxes.html">State Taxes</a>
-    <a href="/tax-liens.html">Tax Liens</a>
-    <a href="/tax-refund.html" class="active">Tax Refunds</a>
+    <a href="/tax-liens.html" class="active">Tax Liens</a>
+    <a href="/tax-refund.html">Tax Refunds</a>
     <a href="/irs-payment-plan.html">IRS vs Bankruptcy</a>
   </div>
 </nav>
 
 <header>
-  <h1>Can the Trustee Take My <span class="accent">Tax Refund</span>?</h1>
-  <p class="subtitle">How tax refunds are handled in Chapter 7 and Chapter 13 bankruptcy</p>
+  <h1><span class="accent">Tax Liens</span> Survive Bankruptcy</h1>
+  <p class="subtitle">The critical difference between discharging tax debt and removing tax liens</p>
 </header>
 
 <div class="breadcrumb" aria-label="Breadcrumb">
-  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">Taxes and Bankruptcy</a> &rsaquo; Tax Refunds
+  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">Taxes and Bankruptcy</a> &rsaquo; Tax Liens
 </div>
 
 <main id="main-content">
 
   <div class="content-section">
-    <h2>Tax Refunds in Chapter 7</h2>
-    <p>In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, a tax refund is property of the <a href="https://1328f.com/glossary.html#estate" title="estate">bankruptcy estate</a>. This means the trustee can take it and distribute it to your creditors - unless you can claim it as exempt.</p>
+    <h2>The Key Distinction: Personal Liability vs. Lien</h2>
+    <p>This is one of the most important - and most misunderstood - concepts in tax-bankruptcy law. Bankruptcy can <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> your <strong>personal liability</strong> for a tax debt. That means you no longer owe the money. The IRS or state cannot garnish your wages, levy your bank account, or take any personal collection action against you.</p>
+    <p>But a <strong>tax lien</strong> is different. A tax lien is an interest in your property. Once a tax lien has been properly filed, it attaches to property you own. And liens survive bankruptcy. Even after your personal liability is discharged, the lien remains on the property.</p>
 
-    <h3>Timing Matters</h3>
-    <p>The key question is: what portion of the refund was earned before your bankruptcy filing date?</p>
-    <ul>
-      <li><strong>Pre-petition portion:</strong> If you file bankruptcy in June, roughly half of the year's tax refund (the portion attributable to January through June) is property of the estate.</li>
-      <li><strong>Post-petition portion:</strong> The portion attributable to months after filing belongs to you and is not property of the estate.</li>
-    </ul>
-    <p>In practice, most <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> trustees look at the full refund for the tax year in which you filed, and some also look at the refund for the year before filing if it has not yet been received.</p>
-
-    <h3>Protecting Your Refund with Exemptions</h3>
-    <p>You can protect your tax refund by claiming it as exempt on your bankruptcy schedules. The available <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> depend on your state:</p>
-    <ul>
-      <li><strong>Federal wildcard exemption:</strong> If your state allows federal <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a>, 11 U.S.C. Section 522(d)(5) provides a wildcard exemption that can be used for any property, including tax refunds. The amount varies and can be significant if you are not using it for other property.</li>
-      <li><strong>State exemptions:</strong> Some states have specific exemptions for tax refunds. Others allow you to use a general personal property or wildcard exemption.</li>
-      <li><strong>EITC and child tax credits:</strong> These have strong arguments for exemption (see below).</li>
-    </ul>
-  </div>
-
-  <div class="content-section">
-    <h2>Tax Refunds in Chapter 13</h2>
-    <p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> treatment of tax refunds varies dramatically by district. There is no single national rule. Instead, each trustee and each district has developed its own approach.</p>
-
-    <h3>Common Approaches</h3>
-    <ul>
-      <li><strong>Full turnover:</strong> Some trustees require you to turn over 100% of your tax refund each year. The refund is distributed to creditors through the plan.</li>
-      <li><strong>Partial turnover with threshold:</strong> Some districts allow you to keep refunds up to a certain amount (for example, $2,000 or $2,500) and turn over the excess.</li>
-      <li><strong>No turnover required:</strong> Some districts do not require any refund turnover, treating the refund as part of the debtor's budget already accounted for in the plan.</li>
-      <li><strong>Plan-specific:</strong> Some plans specifically address tax refunds. Your confirmed plan may say exactly what happens to your refund.</li>
-    </ul>
-
-    <div class="warning-box">
-      <p><strong>Check your plan and local rules:</strong> Before spending your tax refund during <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, verify what your plan says and whether your trustee has a standing order about refunds. Spending a refund you were supposed to turn over can result in a motion to dismiss.</p>
+    <div class="red-box">
+      <p><strong>What this means in practice:</strong> If the IRS filed a tax lien before you filed bankruptcy, and you own a house, the lien stays on the house after bankruptcy. You do not personally owe the tax anymore, but if you sell the house, the IRS gets paid from the sale proceeds up to the amount of the lien.</p>
     </div>
   </div>
 
   <div class="content-section">
-    <h2>Earned Income Credit and Child Tax Credit</h2>
-    <p>The Earned Income Tax Credit (EITC) and Child Tax Credit (CTC) have special status in many courts. These credits are not a "refund" of over-withheld taxes - they are government benefits for low-income working families.</p>
-
-    <h3>Arguments for Exemption</h3>
+    <h2>Federal Tax Lien vs. Notice of Federal Tax Lien</h2>
+    <p>There is an important technical distinction between the federal tax lien itself and the Notice of Federal Tax Lien (NFTL).</p>
     <ul>
-      <li><strong>Public assistance benefit:</strong> Under federal exemptions (11 U.S.C. Section 522(d)(10)(A)), public assistance benefits are exempt. Several courts have held that the EITC qualifies as a public assistance benefit.</li>
-      <li><strong>Earned wages:</strong> The EITC is based on earned income and can be characterized as a wage supplement, making it potentially exempt under wage exemptions.</li>
-      <li><strong>Policy considerations:</strong> Congress designed the EITC to encourage work and support low-income families. Taking it in bankruptcy defeats that purpose.</li>
+      <li><strong>Statutory lien:</strong> Under 26 U.S.C. Section 6321, a federal tax lien arises automatically when a tax is assessed and the taxpayer fails to pay after demand. This lien exists even without any public filing - it is created by operation of law.</li>
+      <li><strong>Notice of Federal Tax Lien (NFTL):</strong> The NFTL is a public document filed with the county recorder or secretary of state. It puts third parties on notice that the lien exists. Without the NFTL, the lien may not be enforceable against certain third parties (like subsequent purchasers or other creditors).</li>
+    </ul>
+    <p>For bankruptcy purposes, the distinction matters. A lien that has been properly noticed (NFTL filed) is more difficult to avoid. But even a statutory lien without a filed NFTL can survive bankruptcy in some circumstances, depending on whether there is property to which it can attach.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>How Tax Liens Work After Discharge</h2>
+    <p>After bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, the tax lien operates as follows:</p>
+    <ul>
+      <li><strong>Property owned at filing:</strong> The lien remains attached to any property you owned when you filed bankruptcy. If you sell the property, the lien must be satisfied from the proceeds.</li>
+      <li><strong>Property acquired after filing:</strong> The lien does <strong>not</strong> attach to property you acquire after the bankruptcy filing date. Your post-bankruptcy earnings and purchases are free from the pre-petition tax lien.</li>
+      <li><strong>Lien expiration:</strong> Federal tax liens expire 10 years from the date of assessment (with some extensions). After the collection statute expires, the lien is released. State tax lien durations vary by state.</li>
+      <li><strong>No personal collection:</strong> Even though the lien survives, the IRS cannot use personal collection tools (<a href="https://garnishedwages.org" title="Wage Garnishment and Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">wage garnishment</a>, <a href="https://bankaccountlevy.com/" title="bank levy">bank levy</a>) because the personal liability was discharged. They can only enforce the lien against the specific property.</li>
     </ul>
 
     <div class="green-box">
-      <p><strong>Trend:</strong> Most courts that have addressed the issue protect EITC from bankruptcy trustees. However, the law is not uniform. If you rely on the EITC, discuss this with your attorney and be prepared to argue the exemption if the trustee objects.</p>
+      <p><strong>Silver lining:</strong> If you do not own any significant property when you file bankruptcy, a surviving tax lien may be practically meaningless. With no property to attach to, the lien has nothing to enforce against. This is common in <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> cases where the debtor has few assets.</p>
     </div>
   </div>
 
   <div class="content-section">
-    <h2>Strategies for Protecting Your Refund</h2>
+    <h2>Chapter 7 and Tax Liens</h2>
+    <p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> offers limited tools for dealing with tax liens. The discharge eliminates your personal liability, but the lien survives. The practical effect depends on your property:</p>
     <ul>
-      <li><strong>Adjust your withholding:</strong> File a new W-4 with your employer to reduce your withholding. This increases your take-home pay and reduces your refund. Less refund means less for the trustee to take. But be careful not to under-withhold and owe taxes.</li>
-      <li><strong>Time your filing:</strong> In Chapter 7, filing later in the year means a smaller pre-petition portion of the refund is estate property. Filing in December means almost the entire refund was earned pre-petition; filing in January means very little was.</li>
-      <li><strong>Use exemptions strategically:</strong> If you have unused wildcard or personal property exemptions, allocate them to your tax refund on Schedule C.</li>
-      <li><strong>Receive and spend the refund before filing:</strong> If you receive your refund before filing Chapter 7, you can spend it on necessary expenses (rent, utilities, food, car repairs). Spending it on luxury items or to pay favored creditors can create problems.</li>
-      <li><strong>Separate EITC from refund:</strong> If part of your refund is EITC and part is overwithholding, document the breakdown. The EITC portion may be exempt even if the overwithholding portion is not.</li>
+      <li><strong>No property:</strong> The lien survives on paper but has nothing to attach to. As a practical matter, you are free of the tax debt.</li>
+      <li><strong>Fully encumbered property:</strong> If your property has no equity (the mortgage and other liens exceed the value), the tax lien may be worthless because there is nothing for it to attach to. Some courts allow debtors to seek a determination that the lien has been extinguished to the extent it exceeds the value of the property.</li>
+      <li><strong>Property with equity:</strong> This is the problem case. The tax lien attaches to your equity. If you sell the property, the IRS must be paid from the proceeds. You may choose to hold the property and wait for the 10-year collection statute to expire, at which point the lien is released.</li>
     </ul>
+  </div>
 
-    <div class="red-box">
-      <p><strong>Do not hide your refund.</strong> Failing to disclose a tax refund on your bankruptcy schedules is fraud. The trustee will find out - they have access to your tax returns and can verify refund amounts with the IRS. Always disclose the refund and claim the appropriate exemption.</p>
+  <div class="content-section">
+    <h2>Chapter 13 and Tax Liens</h2>
+    <p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> provides significantly more tools for dealing with tax liens. This is one of the major advantages of <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> over Chapter 7 for tax debt.</p>
+
+    <h3>Paying the Secured Portion Through the Plan</h3>
+    <p>In Chapter 13, a tax lien can be divided into a secured portion (equal to the value of the property the lien attaches to) and an unsecured portion. Under 11 U.S.C. Section 506, the secured claim is limited to the value of the collateral. The unsecured portion is treated as a general unsecured claim and may be paid at a reduced rate or not at all.</p>
+    <p>Example: You owe $30,000 in tax debt and the IRS has a lien on your home. Your home is worth $200,000 with a $190,000 mortgage. The equity is $10,000. The IRS lien is secured only to the extent of $10,000 - that must be paid through the plan. The remaining $20,000 is unsecured and may be discharged upon plan completion.</p>
+
+    <h3>Lien Release After Plan Completion</h3>
+    <p>After you complete your <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a> and receive a discharge, you can seek release of the tax lien. If you paid the secured portion of the lien through the plan, the IRS should release the lien. You may need to file a motion with the bankruptcy court if the IRS does not voluntarily release it.</p>
+
+    <div class="warning-box">
+      <p><strong>Priority tax liens:</strong> If the underlying tax is a priority claim (meaning the timing tests for discharge are not met), the full amount must be paid through the <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a> under 11 U.S.C. Section 1322(a)(2). In that case, the lien is paid in full and then released.</p>
     </div>
   </div>
 
   <div class="content-section">
-    <h2>What Your Plan Says</h2>
-    <p>In Chapter 13, your confirmed plan is a binding order. If the plan says you must turn over tax refunds, you must comply. If it is silent on refunds, check the trustee's standing orders and local rules.</p>
-    <p>Key plan provisions to look for:</p>
+    <h2>Strategies for Dealing with Tax Liens</h2>
     <ul>
-      <li>Any clause requiring turnover of tax refunds</li>
-      <li>Whether a specific dollar amount is excluded from turnover</li>
-      <li>Whether the plan specifically addresses EITC or other credits</li>
-      <li>Deadlines for providing copies of tax returns to the trustee</li>
+      <li><strong>File before the lien is recorded:</strong> If you know the IRS is about to file a Notice of Federal Tax Lien, filing bankruptcy first means there is no lien to survive. The <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> prevents the IRS from filing a new lien while the case is pending.</li>
+      <li><strong>Chapter 13 lien valuation:</strong> Use Section 506 to limit the secured claim to the value of your equity. Pay only the secured portion through the plan.</li>
+      <li><strong>Wait out the collection statute:</strong> Federal tax liens expire 10 years from assessment. If you can hold your property until the statute expires, the lien is released by operation of law.</li>
+      <li><strong>Negotiate lien release post-discharge:</strong> After discharge, you can contact the IRS and request a lien discharge or subordination for specific property, especially if the lien exceeds the equity.</li>
+      <li><strong>Sell property pre-bankruptcy:</strong> If you sell property before filing and the proceeds are used to purchase exempt assets, the lien may have nothing to attach to. This requires careful planning and timing.</li>
     </ul>
-    <p>If your plan is unclear, ask your attorney. If you are <a href="https://prosebankruptcy.org/" title="pro se">pro se</a>, contact the trustee's office directly for guidance.</p>
   </div>
 
   <div class="content-section">
     <h2>Frequently Asked Questions</h2>
 
-    <h3>Does the Chapter 13 trustee take my tax refund?</h3>
-    <p>It depends on your district, your trustee's requirements, and what your confirmed plan says. Many trustees require turnover of all or part of the refund. Some districts have standing orders with specific thresholds. Others do not require turnover at all. Always check your plan and your trustee's requirements before spending your refund.</p>
+    <h3>Does a tax lien go away in bankruptcy?</h3>
+    <p>No. A properly filed tax lien survives bankruptcy. Your personal liability for the tax can be discharged, meaning you no longer owe the money and the IRS cannot use personal collection methods. But the lien remains attached to property you owned when you filed. The IRS can still enforce the lien against that specific property.</p>
 
-    <h3>Can I protect my earned income credit in bankruptcy?</h3>
-    <p>The EITC has strong arguments for exemption. Under federal exemptions, it can be characterized as a public assistance benefit (exempt under 11 U.S.C. Section 522(d)(10)(A)). Many courts protect EITC from trustees. However, the law varies by jurisdiction. Document the EITC portion of your refund separately and be prepared to argue the exemption.</p>
+    <h3>What happens to a tax lien after Chapter 7 discharge?</h3>
+    <p>After Chapter 7 discharge, the personal obligation is gone but the lien remains on property you owned at the time of filing. If you sell that property, the IRS gets paid from the proceeds. The lien does not attach to property you acquire after bankruptcy. Eventually, the lien expires when the 10-year collection statute runs out.</p>
 
-    <h3>How do I keep my tax refund in Chapter 7?</h3>
-    <p>Claim the refund as exempt on your Schedule C using available state or federal exemptions. You can also reduce future refunds by adjusting your W-4 withholding, time your filing strategically, or receive and spend the refund on necessary expenses before filing.</p>
+    <h3>Can Chapter 13 remove a tax lien?</h3>
+    <p>Chapter 13 cannot remove a tax lien outright, but it provides tools to address it. The lien can be valued under Section 506, limiting the secured claim to the equity in the property. The unsecured portion is treated as a general unsecured claim. After you complete the plan and pay the secured portion, the lien can be released.</p>
 
-    <h3>Should I adjust my withholding before filing bankruptcy?</h3>
-    <p>Adjusting your withholding to reduce your refund is generally acceptable. The goal is to match your withholding to your actual tax liability so you do not have a large refund for the trustee to take. Do not reduce withholding so much that you owe taxes - that creates a new problem.</p>
+    <h3>Should I file bankruptcy before or after a tax lien is filed?</h3>
+    <p>Filing before a tax lien is recorded is generally advantageous because there is no lien to survive the discharge. Once a lien is filed, it attaches to your property and survives bankruptcy. However, even after a lien is filed, Chapter 13 provides tools to manage it. The best timing depends on your specific property, equity, and the amount of tax debt.</p>
   </div>
 
   <div class="content-section">
     <h2>Related Resources</h2>
-    <p><a href="/income-tax-return.html">Filing Tax Returns During Chapter 13</a> - the annual filing requirement</p>
-    <p><a href="https://whatischapter7.com">What Is Chapter 7?</a> - overview of Chapter 7 bankruptcy</p>
-    <p><a href="https://chapter13plan.org">Chapter 13 Plans</a> - how repayment plans work</p>
-    <p><a href="/irs-payment-plan.html">IRS Payment Plan vs. Bankruptcy</a> - comparing your options</p>
+    <p><a href="https://lienstripping.org">Lien Stripping in Bankruptcy</a> - removing junior liens from real property</p>
+    <p><a href="https://relieffromstay.org">Relief from Stay</a> - when creditors ask the court to lift bankruptcy protection</p>
+    <p><a href="/3-year-rule.html">The 3-Year Rule</a> - the first timing test for tax discharge</p>
+    <p><a href="/state-taxes.html">State Taxes and Bankruptcy</a> - state tax liens and discharge rules</p>
   </div>
 
   <div class="cta-box">
     <h3>Check Your Bankruptcy Discharge Eligibility</h3>
-    <p>Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
+    <p>Use the free screener at 1328f.com to check whether federal timing bars affect your ability to receive a bankruptcy discharge.</p>
     <div class="cta-links">
       <a href="https://1328f.com?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network" class="primary-btn">Discharge Screener</a>
       <a href="https://1328f.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network" class="secondary-btn">Research Platform</a>
@@ -394,8 +363,8 @@
   <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
   <ul style="list-style:none;padding:0;margin:0">
     <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=bankruptcytaxes.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=bankruptcytaxes.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=bankruptcytaxes.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=bankruptcytaxes.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
   </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -407,7 +376,7 @@
   <div class="links">
     <a href="https://1328f.com?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a> <a href="https://1328f.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">1328f.org</a> <a href="https://automaticstay.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">automaticstay.org</a> <a href="https://meanstest.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">meanstest.org</a> <a href="https://341meeting.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">341meeting.org</a> <a href="https://relieffromstay.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">relieffromstay.org</a> <a href="https://dischargeinjunction.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">dischargeinjunction.org</a> <a href="https://dischargeinjunction.com?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">dischargeinjunction.com</a> <a href="https://523a.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">523a.org</a> <a href="https://109g.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">109g.org</a> <a href="https://727a8.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">727a8.org</a> <a href="https://727a8.com?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">727a8.com</a> <a href="https://prosedebtors.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">prosedebtors.org</a> <a href="https://whatischapter7.com?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">whatischapter7.com</a> <a href="https://whatischapter7.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">whatischapter7.org</a> <a href="https://chapter13plan.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">chapter13plan.org</a> <a href="https://lienstripping.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">lienstripping.org</a> <a href="https://nondischargeable.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">nondischargeable.org</a> <a href="https://bankruptcyfreshstart.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">bankruptcyfreshstart.org</a> <a href="https://reaffirmationagreement.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">reaffirmationagreement.org</a> <a href="https://dischargebar.org?utm_source=bankruptcytaxes.org&utm_medium=referral&utm_campaign=btn-network">dischargebar.org</a> <a href="https://section1328.org">section1328.org</a> <a href="https://bankruptcytaxes.org">bankruptcytaxes.org</a> <a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a> <a href="https://serialfiler.org">serialfiler.org</a> <a href="https://codebtorstay.org">codebtorstay.org</a> <a href="https://bankruptcyhardship.org">bankruptcyhardship.org</a> <a href="https://voluntarypetition.org">voluntarypetition.org</a> <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a> <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
   </div>
-  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
